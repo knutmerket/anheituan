@@ -4,9 +4,13 @@ SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Rome'
+TIMEZONE = 'Europe/Oslo'
 
 DEFAULT_LANG = 'en'
+
+THEME = 'themes/elegant'
+
+DISPLAY_CATEGORIES_ON_MENU = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -33,3 +37,13 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+TYPOGRIFY = True
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}

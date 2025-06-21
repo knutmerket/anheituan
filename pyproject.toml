@@ -12,6 +12,7 @@ Markdown = "^3.8.2"
 typogrify = "^2.1.0"
 
 [tool.poetry.dev-dependencies]
+ghp-import = "^2.1.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
