@@ -59,6 +59,3 @@ ARTICLE_SAVE_AS = 'teas/{slug}.html'
 
 # Tell Pelican to treat 'featured_image' as a known metadata field
 ARTICLE_METADATA_FIELDS = ['title', 'date', 'slug', 'category', 'tags', 'status', 'featured_image', 'price']
-
-# These kinda just clutter up things and aren't useful presently
-DISPLAY_CATEGORIES_ON_MENU = False
