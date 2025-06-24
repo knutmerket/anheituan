@@ -1,5 +1,6 @@
 AUTHOR = 'Balthazar'
 SITENAME = 'Anheituan'
+SITESUBTITLE = "粗种有细"
 SITEURL = ""
 
 PATH = "content"
@@ -33,7 +34,7 @@ SOCIAL = (
     ("Another social link", "#"),
 )
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 12
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -47,3 +48,17 @@ MARKDOWN = {
     },
     'output_format': 'html5',
 }
+
+ARTICLE_PATHS = ['teas']
+PAGE_PATHS = ['pages']
+#DEFAULT_CATEGORY = None  # Optional: avoids fallback 'Uncategorized'
+
+# Optional: override URL structure just for teas
+ARTICLE_URL = 'teas/{slug}.html'
+ARTICLE_SAVE_AS = 'teas/{slug}.html'
+
+# Tell Pelican to treat 'featured_image' as a known metadata field
+ARTICLE_METADATA_FIELDS = ['title', 'date', 'slug', 'category', 'tags', 'status', 'featured_image', 'price']
+
+# These kinda just clutter up things and aren't useful presently
+DISPLAY_CATEGORIES_ON_MENU = False
