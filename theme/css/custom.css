@@ -1,0 +1,54 @@
+/* custom.css */
+
+/* Grid layout for tea items */
+.tea-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+/* Individual tea items */
+.tea-item {
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tea-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+}
+
+.tea-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tea-title {
+  font-size: 1.2rem;
+  margin: 1rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.site-subtitle {
+    display: block;
+    font-size: 0.7em;
+    color: #8d0202;
+    font-weight: 400;
+    margin-top: 0.3em;
+    margin-left: 2px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3); /* subtle shadow for clarity */
+}
+
+.small-paragraph {
+    font-size: 0.85em;
+    color: #666; /* optional: makes it slightly muted */
+    line-height: 1.4;
+    margin-top: 0.5em;
+}
