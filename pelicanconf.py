@@ -53,6 +53,11 @@ ARTICLE_PATHS = ['teas']
 PAGE_PATHS = ['pages']
 #DEFAULT_CATEGORY = None  # Optional: avoids fallback 'Uncategorized'
 
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+}
+
 # Optional: override URL structure just for teas
 ARTICLE_URL = 'teas/{slug}.html'
 ARTICLE_SAVE_AS = 'teas/{slug}.html'

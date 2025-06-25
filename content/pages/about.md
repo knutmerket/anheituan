@@ -1,6 +1,6 @@
 ---
 title: About 
-date: 2025-06-20  
+date: 2025-06-20
 ---
 
 Welcome to **Anheituan** (安黑团) — a semi-serious tea project built on top of an obsession for **Anhua Heicha** (安化黑茶) in general and Qianliangcha (千两茶) in particular.
@@ -23,8 +23,8 @@ Potentially / sort of. The teas are **not** listed at my own cost — there is a
 
 - **Storage fees** (some teas will probably linger in the warehouse for a while)
 - **The risk** of teas not selling at all (I expect this to happen)
-- **Transaction fees**, mostly thanks to paying with a foreign card (in NOK) through WeChat/Alipay
-- **Domain costs** (though that's miniscule)
+- **Transaction fees** both when receiving payments through PayPal, making payments to shipforwarder.com and paying for the teas with a foreign card (in NOK) through WeChat/Alipay
+- **Domain cost** (though that's miniscule)
 - **Probably other stuff I haven't factored in** (because there always is)
 
 So yes, there’s going to be a buffer built into the prices to try to mitigate the risk of me operating at a loss.

@@ -12,6 +12,8 @@ Feel free to use this email to:
 - Ask questions about any of the teas
 - Claim one or more teas
 
+(I will try to respond as fast as possible, but it may sometimes take a couple of days.)
+
 ---
 
 ### 🧾 What Happens After You Email
