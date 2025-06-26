@@ -9,22 +9,28 @@ The teas listed on this site are extras from group buys I’ve participated in. 
 
 This is mostly:
 
-1. To make group easier to organize on my end 
-2. To stop flooding `#group-buy` in the CommuniTEA Discord
+1. To make the group buys easier to organize on my end
+2. To avoid flooding `#group-buy` in the CommuniTEA Discord
 3. And to help convince my wife that my tea hoarding is a legitimate operation
 
-It is also more practical due to the fact that these buys are sometimes announced mere hours (or more commonly, just a couple days) before the sale happens, often not enough time to notify people potentially interested in joining in.
+It is also more practical due to the fact that these buys are sometimes announced mere hours (or, more commonly, a couple days) before the sale happens, often too short notice to coordinate with others in advance.
+
+---
+
+### Are there smaller samples available for purchase?
+
+Usually not. That would be tricky for me to handle logistically — and would require raising prices. I get that committing to a full slice or brick can feel like a lot, though.
 
 ---
 
 ### Am I making a profit from this?
 
-Potentially / sort of. The teas are **not** listed at my own cost — there is a markup to help cover:
+Possibly — sort of. The teas are **not** listed at my own cost — there is a markup to help cover:
 
 - **Storage fees** (some teas will probably linger in the warehouse for a while)
 - **The risk** of teas not selling at all (I expect this to happen)
-- **Transaction fees** both when receiving payments through PayPal, making payments to shipforwarder.com and paying for the teas with a foreign card (in NOK) through WeChat/Alipay
-- **Domain cost** (though that's miniscule)
+- **Transaction fees** (PayPal, WeChat/Alipay, currency conversion, forwarding service, etc.)
+- **Domain cost** (though those are minimal)
 - **Probably other stuff I haven't factored in** (because there always is)
 
 So yes, there’s going to be a buffer built into the prices to try to mitigate the risk of me operating at a loss.
@@ -37,9 +43,9 @@ Not really. In most cases I will need to **buy the teas first**, before anyone�
 
 If something sells out and you ask about it, I *might* be able to get more from the source. In that case I guess it’s more like dropshipping. But I expect that to be the exception, not the rule.
 
-### Is this just a bunch of words to try to justify gatekeeping the sources?
+### Is this just a long-winded way to justify gatekeeping my sources?
 
-I leave that up to you to decide, charitable reader.
+That’s for you to decide, charitable reader.
 
 ---
 
