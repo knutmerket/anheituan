@@ -29,7 +29,7 @@ Possibly — sort of. The teas are **not** listed at my own cost — there is a 
 
 - **Storage fees** (some teas will probably linger in the warehouse for a while)
 - **The risk** of teas not selling at all (I expect this to happen)
-- **Transaction fees** (PayPal, WeChat/Alipay, currency conversion, forwarding service, etc.)
+- **Transaction fees** (Stripe/PayPal/WeChat/Alipay service fees, currency conversion, etc.)
 - **Domain cost** (though those are minimal)
 - **Probably other stuff I haven't factored in** (because there always is)
 

@@ -3,9 +3,9 @@ title: How to Buy
 date: 2025-06-20  
 ---
 
-There’s no shopping cart or checkout system. If you're interested in any tea, just **send an email** to:
+There’s no shopping cart or checkout system. If you're interested in any tea(s), just **send an email** to:
 
-**📧 anheituanorders[at]gmail.com**  
+**📧 anheituanorder[at]gmail.com**  
 *(replace `[at]` with `@` when sending)*
 
 Feel free to use this email to:
@@ -20,17 +20,15 @@ Feel free to use this email to:
 
 1. You tell me what you'd like and where you want it shipped.  
 2. I calculate:  
-    - Product total  
-    - Shipping cost + service fees via [shipforwarder.com](https://www.shipforwarder.com)  
-    - Any PayPal fees I incur (forwarding payment to Shipforwarder)
-3. I send you a breakdown and the total cost in **USD**.  
-4. If you’re happy with it, you pay to the same email address via PayPal.
+    - Product total
+    - Shipping cost (I use [shipforwarder.com](https://www.shipforwarder.com))
+3. I send you a breakdown and the total cost in **USD**, as well as a [Stripe payment link](https://stripe.com/en-no/payments/payment-links) that you can use to pay if you're happy with the total cost.
 
 ---
 
 ### 📦 Shipping Info Needed
 
-If you're ready to make a claim or request a shipping quote, please include this info in your email:
+Please include this info in your email:
 
 **Recipient (full name):**  
 **Street:**  
@@ -41,7 +39,7 @@ If you're ready to make a claim or request a shipping quote, please include this
 **Phone number (with area code):**
 
 
-Copy, fill it in, and paste it into the email. (This are the required fields by shipforwarder.com to process the shipment.)
+Copy, fill it in, and paste it into the email. (These are the required fields by shipforwarder.com to process the shipment.)
 
 
 > **Note:**  
