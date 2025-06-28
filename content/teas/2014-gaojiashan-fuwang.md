@@ -2,10 +2,10 @@
 title: 2014 Gaojiashan "Qianliang Jinhua Fuwang" Fuzhuan
 category: teas
 date: 2025-06-30
-tags: Gaojiashan, Hunan storage, Fuzhuan
+tags: Gaojiashan, Yuntaishan material, Hunan storage, Fuzhuan
 slug: 2014-gaojiashan-fuwang
 status: published
-featured_image: images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg
+featured_image: images/teas/unpublished/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-front.jpg
 ---
 
 - **Production year:** 2014
@@ -19,22 +19,21 @@ featured_image: images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg
 
 ---
 
-**Gaojiashan (高家山)** is a fairly big operation — not in the league of Baishaxi, Zhongcha, or Xiangyi, but in that tier of medium-sized Anhua heicha producers just below them. A common assessment is that their teas were more consistently good before the two brothers who ran the company split (around 2013), and that their productions have been more hit-or-miss since then. I haven’t had too many of their newer teas, but the ones I have tried support this idea.
+**Gaojiashan (高家山)** is a fairly big operation — not in the league of Baishaxi, Zhongcha, or Xiangyi, but in that tier of medium-sized Anhua heicha producers just below them. A common assessment is that their teas were more consistently good before the two brothers who ran the company split (around 2013), and that their productions have been more hit-or-miss since then. I haven’t had too many of their newer teas, but the ones I have tried support this idea. Their teas also typically have a slightly heavier fermentation level than I prefer, though there are noteworthy exceptions such as the "Benseju" (本色居) series.
 
-That said, interesting productions do pop up from time to time — this is one of them. There’s definitely a gimmick factor to this first batch of their “Qianliang Fuzhuan” (not a qianliangcha with jinhua, but a fuzhuan made to the size of a qianliangcha!), but it supposedly uses good material (*though take the “wild and ancient trees” claim with a qianliang of salt*), has seen a nice transformation in the 11 years since it was pressed.
+That said, interesting productions do pop up from time to time and this is one of them. There’s definitely a gimmick factor to this first batch of their “Qianliang Fuzhuan” (not a qianliangcha with jinhua, but a fuzhuan made to the size of a qianliangcha!), but it supposedly uses good tianjian material from Yuntaishan (*though take the “wild and ancient trees” claim with a qianliang of salt*) and has seen a nice transformation in the 11 years since it was pressed.
 
-The 2014 production was limited to either 28 or 50 bricks (I have seen both numbers mentioned, and would guess the latter is the correct one). Another batch was made in 2018, also limited to 50 bricks.
+The 2014 production was limited to either 50 bricks. Another batch of 50 bricks was made in 2018. That number may not sound all that low when you consider the weigh of these bricks (~1.5 tonnes of finished tea per batch), but for *qianliangcha logs* of similar size production numbers of three or (more commonly) four digits is what you typically see.
 
-<p class="small-paragraph">
-*Note: This tea contains golden flowers (Jinhua/金花) which may have been inoculated using wheat flour. Individuals with Celiac Disease or severe gluten allergies should exercise caution.*
-</p>
+*<p class="small-paragraph">
+Note: This tea contains golden flowers (Jinhua/金花) which may have been inoculated using wheat flour. Individuals with Celiac Disease or severe gluten allergies should exercise caution.
+</p>*
 
 ---
 
 
-![Log with protective cover](/images/teas/2006-baishaxi-qlc/2006-bsx-w-protective-cover.jpg)
-![Log prior to cutting](/images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg)
-![QLC slice](/images/teas/2006-baishaxi-qlc/2006-bsx-slice.jpg)
-![Brewed tea](/images/teas/2006-baishaxi-qlc/2006-bsx-qlc-brewed.jpg)
-
-
+![Wrapper front](/images/teas/unpublished/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-front.jpg)
+![Wrapper signature](/images/teas/unpublished/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-signature.jpg)
+![Wrapper back](/images/teas/unpublished/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-back.jpg)
+![Unwrapped brick](/images/teas/unpublished/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-unwrapped-brick.jpg)
+ 

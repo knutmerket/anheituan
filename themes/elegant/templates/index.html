@@ -85,16 +85,16 @@
 {% if articles %}
 <div class="container">
   <div class="tea-grid">
-  {% for article in articles %}
-  <div class="tea-item">
-    <a href="{{ SITEURL }}/{{ article.url }}">
-      {% if article.featured_image %}
-      <img src="{{ SITEURL }}/{{ article.featured_image }}" alt="{{ article.title }}">
-      {% endif %}
-      <h3 class="tea-title">{{ article.title }}</h3>
-    </a>
-  </div>
-  {% endfor %}
+    {% for article in articles %}
+    <div class="tea-item">
+      <a href="{{ SITEURL }}/{{ article.url }}">
+        {% if article.featured_image %}
+        <img src="{{ SITEURL }}/{{ article.featured_image }}" alt="{{ article.title }}">
+        {% endif %}
+        <h3 class="tea-title">{{ article.title }}</h3>
+      </a>
+    </div>
+    {% endfor %}
   </div>
 </div>
 {% endif %}
