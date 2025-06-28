@@ -23,9 +23,9 @@ featured_image: images/teas/2007-baishaxi-qlc/2007-bsx-qlc-whole-log.jpg
 
 The 2007 QLC is tightly pressed and showcases the unmistakable “Baishaxi huajuan” character.
 
-<p class="small-paragraph">
-*Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.*
-</p>
+*<p class="small-paragraph">
+Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.
+</p>*
 
 ---
 

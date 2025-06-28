@@ -8,3 +8,6 @@ poetry.lock
 # Pelican output
 output/
 .cache/
+
+# Files
+content/images/teas/unpublished/

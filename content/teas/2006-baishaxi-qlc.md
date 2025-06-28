@@ -23,9 +23,9 @@ featured_image: images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg
 
 The 2006 QLC is not as tightly pressed as the 2007 QLC (and most subsequent BSX "standard line" QLC productions). According to our source, the 2006 BSX was made from **Yuntaishan (云台山)** material.
 
-<p class="small-paragraph">
-*Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.*
-</p>
+*<p class="small-paragraph">
+Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.
+</p>*
 
 ---
 
