@@ -30,6 +30,14 @@ Note: This tea contains golden flowers (Jinhua/金花) which may have been inocu
 </p>*
 
 ---
+**Wechat articles about this tea** (from the company itself, so read it as official boast)
+
+| Chinese | English (Google Translated) |
+| --- | --- |
+| [2014-11-01 (CN)](/images/teas/unpublished/2014-gaojiashan-fuwang/articles/2014-gaojiashan-fuwang-signature-2014-11-01-CN.pdf) | [2014-11-01 (EN)](/images/teas/unpublished/2014-gaojiashan-fuwang/articles/2014-gaojiashan-fuwang-signature-2014-11-01-EN.pdf) |
+| [2014-11-09 (CN)](/images/teas/unpublished/2014-gaojiashan-fuwang/articles/2014-gaojiashan-fuwang-signature-2014-11-09-CN.pdf) | [2014-11-09 (EN)](/images/teas/unpublished/2014-gaojiashan-fuwang/articles/2014-gaojiashan-fuwang-signature-2014-11-09-EN.pdf) |
+
+---
 
 
 ![Wrapper front](/images/teas/unpublished/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-front.jpg)
