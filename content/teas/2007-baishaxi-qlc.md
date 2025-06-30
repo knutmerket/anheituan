@@ -9,7 +9,7 @@ featured_image: images/teas/2007-baishaxi-qlc/2007-bsx-qlc-whole-log.jpg
 ---
 
 - **Production year:** 2007
-- **Storage:** Hunan
+- **Storage:** Guangdong
 - **Month cut:** June 2025
 - **Log weight:** 37 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 

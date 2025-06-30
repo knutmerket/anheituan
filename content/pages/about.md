@@ -3,7 +3,7 @@ title: About
 date: 2025-06-20
 ---
 
-Welcome to **Anheituan** (安黑团) — a semi-serious tea project built on top of an obsession for **Anhua Heicha** (安化黑茶) in general and Qianliangcha (千两茶) in particular.
+Welcome to **Anheituan** (安黑团) — a semi-serious tea project built on top of an obsession for Anhua Heicha (安化黑茶) in general and Qianliangcha (千两茶) in particular.
 
 The teas listed on this site are extras from group buys I’ve participated in. These are typically conducted through WeChat groups (often run by vendors who additionally run a “normal” storefront on the major Chinese online shopping platforms). Instead of coordinating interest in advance like before, I now buy a bit extra and offer it here — for anyone who’d like to join in after the fact.
 
@@ -25,7 +25,7 @@ Usually not. That would be tricky for me to handle logistically — and would re
 
 ### Am I making a profit from this?
 
-Possibly — sort of. The teas are **not** listed at my own cost — there is a markup to help cover:
+Possibly — sort of. The teas are not listed at my own cost — there is a markup to help cover:
 
 - **Storage fees** (some teas will probably linger in the warehouse for a while)
 - **The risk** of teas not selling at all (I expect this to happen)
@@ -39,7 +39,7 @@ So yes, there’s going to be a buffer built into the prices to try to mitigate 
 
 ### Is this just dropshipping?
 
-Not really. In most cases I will need to **buy the teas first**, before anyone’s expressed interest.
+Not really. In most cases I will need to buy the teas first, before anyone’s expressed interest.
 
 If something sells out and you ask about it, I *might* be able to get more from the source. In that case I guess it’s more like dropshipping. But I expect that to be the exception, not the rule.
 

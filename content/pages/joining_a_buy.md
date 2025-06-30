@@ -3,7 +3,7 @@ title: How to Buy
 date: 2025-06-20  
 ---
 
-There’s no shopping cart or checkout system. If you're interested in any tea(s), just **send an email** to:
+There’s no shopping cart or checkout system. If you're interested in any tea(s), just send an email to:
 
 **📧 anheituanorder[at]gmail.com**  
 *(replace `[at]` with `@` when sending)*
@@ -23,7 +23,7 @@ Feel free to use this email to:
 2. I calculate:  
     - Product total
     - Shipping cost (I use [shipforwarder.com](https://www.shipforwarder.com))
-3. I send you a breakdown and the total cost in **USD**, as well as a [Stripe payment link](https://stripe.com/payments/payment-links) that you can use to pay if you're happy with the total cost.
+3. I send you a breakdown and the total cost in USD, as well as a [Stripe payment link](https://stripe.com/payments/payment-links) that you can use to pay if you're happy with the total cost.
 
 ---
 
