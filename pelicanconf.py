@@ -8,6 +8,7 @@ PATH = "content"
 TIMEZONE = 'Europe/Oslo'
 
 DEFAULT_LANG = 'en'
+LOCALE = 'en_US.UTF-8'
 
 THEME = 'themes/elegant'
 
