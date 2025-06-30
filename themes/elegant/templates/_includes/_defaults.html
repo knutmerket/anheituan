@@ -7,7 +7,9 @@
 
 {# Label for the list of social profiles #}
 {% if not SOCIAL_PROFILE_LABEL %}
-{% set SOCIAL_PROFILE_LABEL = 'Contact' %}
+<!--Stop rendering "Contact" on each article:-->
+<!-- {% set SOCIAL_PROFILE_LABEL = 'Contact' %} -->
+{% set SOCIAL_PROFILE_LABEL = '' %}
 {% else %}
 {% set SOCIAL_PROFILE_LABEL = SOCIAL_PROFILE_LABEL %}
 {% endif %}
