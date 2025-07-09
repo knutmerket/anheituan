@@ -11,3 +11,6 @@ output/
 
 # Files
 content/images/teas/unpublished/
+
+# vscode
+.vscode
