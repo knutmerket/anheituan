@@ -46,6 +46,7 @@ MARKDOWN = {
         'markdown.extensions.codehilite': {'css_class': 'highlight'},
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
+        'pymdownx.tilde': {},
     },
     'output_format': 'html5',
 }

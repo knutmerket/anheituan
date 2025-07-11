@@ -10,6 +10,7 @@ python = "^3.10"
 pelican = "<5"
 Markdown = "^3.8.2"
 typogrify = "^2.1.0"
+pymdown-extensions = "^10.16"
 
 [tool.poetry.dev-dependencies]
 ghp-import = "^2.1.0"
