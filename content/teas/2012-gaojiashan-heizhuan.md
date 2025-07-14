@@ -23,7 +23,7 @@ There isn’t much information available on the early Gaojiashan productions, bu
 
 In any case, regardless of the validity of such claims, the early Gaojiashan bricks are held in high regard by many (myself included) and are still available at a very decent price point.
 
-NB: This listing is for the 2012 **heizhuan**. I also have [a huazhuan](/teas/2012-gaojiashan-huazhuan/) from the same year and series listed.
+NB: This listing is for the 2012 **heizhuan**. I also have [a huazhuan](/teas/2012-gaojiashan-huazhuan.html) from the same year and series listed.
 
 
 *<p class="small-paragraph">

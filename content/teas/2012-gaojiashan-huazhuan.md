@@ -23,7 +23,7 @@ There isn’t much information available on the early Gaojiashan productions, bu
 
 In any case, regardless of the validity of such claims, the early Gaojiashan bricks are held in high regard by many (myself included) and are still available at a very decent price point.
 
-NB: This listing is for the 2012 **huazhuan**. I also have [a heizhuan](/teas/2012-gaojiashan-heizhuan/) from the same year and series listed.
+NB: This listing is for the 2012 **huazhuan**. I also have [a heizhuan](/teas/2012-gaojiashan-heizhuan.html) from the same year and series listed.
 
 *<p class="small-paragraph">
 Note: This tea may contain golden flowers (Jinhua/金花), a natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.
