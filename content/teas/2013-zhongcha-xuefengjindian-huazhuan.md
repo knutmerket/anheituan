@@ -1,7 +1,7 @@
 ---
 title: 2013 Zhongcha "Xuefeng Jindian" Huazhuan
 category: teas
-date: 2025-07-16
+date: 2025-07-14
 tags: Zhongcha, Hunan storage, Huazhuan
 slug: 2013-zhongcha-xuefengjindian-huazhuan
 status: published
