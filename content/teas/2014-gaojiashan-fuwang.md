@@ -19,7 +19,7 @@ featured_image: images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrappe
 
 ---
 
-**Gaojiashan (高家山)** is a fairly big operation — not in the league of Baishaxi, Zhongcha, or Xiangyi, but in that tier of medium-sized Anhua heicha producers one level below. A common assessment is that their teas were more consistently good before the two brothers who ran the company split (around 2013), and that their productions have been more hit-or-miss since then. I haven’t had too many of their newer teas, but the ones I have tried support this idea.
+**Gaojiashan (高家山)** is a fairly big operation — not in the league of Baishaxi, Zhongcha, or Xiangyi, but in that tier of medium-sized Anhua heicha producers one level below. A common assessment is that their teas were more consistently good before the two brothers who ran the company split (in 2013), and that their productions have been more hit-or-miss since then. I haven’t had too many of their newer teas, but the ones I have tried support this idea.
 
 That said, interesting productions do pop up from time to time and this is one of them. There’s definitely a gimmick factor to this first batch of their “Qianliang Fuzhuan” (not a qianliangcha with jinhua, but a fuzhuan made to the size of a qianliangcha!), but it uses good tianjian material from Yuntaishan (*though take the “wild and ancient trees” claim with a qianliang of salt*) and has seen a nice transformation in the 11 years since it was pressed.
 
