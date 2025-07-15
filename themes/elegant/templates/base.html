@@ -42,9 +42,18 @@
         {% if TWITTER_USERNAME %}
         <meta name="twitter:creator" content="@{{ TWITTER_USERNAME }}">
         {% endif %}
-        <meta property="og:type" content="article" />
-        <meta name="twitter:card" content="summary">
+
+        <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image">
+
+        <meta property="og:image" content="{{ SITEURL }}/static/images/general/anheituan_logo_bigger.png" />
+        <meta name="twitter:image" content="{{ SITEURL }}/static/images/general/anheituan_logo_bigger.png" />
+
+        <meta property="og:title" content="{{ SITENAME|striptags|e }}" />
+        <meta property="og:description" content="{{ SITE_DESCRIPTION|striptags|e }}" />
+        <meta property="og:url" content="{{ SITEURL }}" />
         {% endblock meta_tags_in_head %}
+
         <title>{% block title %}{{ SITENAME|striptags|e }}{% endblock title %}</title>
         {% include '_includes/favicon_links.html' %}
         {% block feed_links %}
