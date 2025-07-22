@@ -1,7 +1,7 @@
 ---
-title: 2010 Yongtaifu "Fully Fire-Roasted" Furong Qianliangcha
+title: 2010 Yongtaifu Furong Qianliangcha (全火烧料)
 category: teas
-date: 2025-07-23
+date: 2025-07-22
 tags: Yongtaifu, Shanghai storage, Furongshan material, QLC
 slug: 2010-yongtaifu-furong-qlc
 status: published
@@ -23,9 +23,9 @@ featured_image: images/teas/2010-yongtaifu-furong-qlc/2010-yongtaifu-furong-qlc-
 
 > *Also, since this is in my private storage I'll make sure to throw in some (unlisted) samples of other Anhei teas with an order of this.*
 
-**Yongtaifu (永泰福)** is an interesting company. It’s one of several that boast a [long history](https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/ba28911e08ab4f55bd29d6bab4468962) — but supposedly the only one whose claim to an (almost) unbroken lineage from the Qing Dynasty to the present actually holds up. Established in 1829 it was controlled by the Li family until the early 50s, when it continued under joint state-private ownership ([公私合营](https://baike.baidu.com/item/%E5%85%AC%E7%A7%81%E5%90%88%E8%90%A5/6775045)). In 1987 it returned to the family's private ownership (reestablished by Li Shengfu), and in 1999 the company resumed production of qianliangcha, being one of the first companies to do so. (Recall that Baishaxi had resumed their production only two years before, in 1997). In 2010, the company was invited to participate in the World Expo in Shanghai, along with Baishaxi.
+**Yongtaifu (永泰福)** is an interesting company. It’s one of several that boast a [long history](https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/ba28911e08ab4f55bd29d6bab4468962) — but supposedly the only one whose claim to an (almost) unbroken lineage from the Qing Dynasty to the present actually holds up. Established in 1829 it was controlled by the Li family until the early 1950s, when it continued under joint state-private ownership ([公私合营](https://baike.baidu.com/item/%E5%85%AC%E7%A7%81%E5%90%88%E8%90%A5/6775045)). In 1987 it returned to the family's private ownership (reestablished by current company helmsman, Li Shengfu), and in 1999 the company resumed production of qianliangcha, being one of the first companies to do so. (Recall that Baishaxi had resumed their production only two years before, in 1997). In 2010, Yongtaifu was invited to participate in the World Expo in Shanghai, along with Baishaxi.
 
-Yongtaifu is currently jointly run by the seventh generation, brothers Li Shengfu and Li Lifu. My understanding is that the former — whose list of accolades can rival anyone in the Anhua Heicha industry — is the more central character. Younger brother Li Lifu apparently handles much of the [qixing work](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4475625892176495303), and if it's something Yongtaifu is especially known for it's their roasting process.
+Yongtaifu is currently jointly run by the seventh generation, brothers Li Shengfu and Li Lifu. The former — whose list of accolades can rival anyone in the Anhua Heicha industry — is the more central character. Younger brother Li Lifu apparently handles more of the hands-on production work, including the [qixing stove](https://mbd.baidu.com/newspage/data/videolanding?nid=sv_4475625892176495303), and if it's something Yongtaifu is especially known for it's their roasting process.
 
 I'll defer to MOFCOM's [company introduction](https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/ba28911e08ab4f55bd29d6bab4468962) for a description:
 
@@ -35,7 +35,7 @@ I'll defer to MOFCOM's [company introduction](https://lzhbwg.mofcom.gov.cn/edi_e
 
 ##### That's probably plenty for a company introduction. Onto the specific tea on offer here
 
-In March 2025, a Shanghai collector with a strong affinity for Yongtaifu teas posted a note announcing that he was moving abroad and needed to sell most of his collection. Attached to the post was a spreadsheet ([excerpt](/images/teas/2010-yongtaifu-furong-qlc/yongtaifu-excel-inventory.jpg)) with an overview of the relevant inventory, quite literally more than a ton of tea. I saved some screenshots and moved on, as they guy clearly stated his minimum requirements for spend amount and wasn't interested in dealing with small fish.
+In March 2025, a Shanghai collector with a strong affinity for Yongtaifu teas posted a note announcing that he was moving abroad and needed to sell most of his collection. Attached to the post was a spreadsheet ([excerpt](/images/teas/2010-yongtaifu-furong-qlc/yongtaifu-excel-inventory.jpg)) with an overview of the relevant inventory, quite literally more than a ton of tea. Most people took note and moved on, as they guy clearly stated his minimum requirements for spend amount and wasn't interested in dealing with small fish.
 
 About a month later though, a vendor I know picked up a bunch of his teas, including a number of qianliangcha logs from 2010-13. 
 
@@ -43,7 +43,7 @@ About a month later though, a vendor I know picked up a bunch of his teas, inclu
 
 In any case, the logs were cut and issue-free. I bought slices of all of the QLCs for myself and a couple of other people. In retrospect, the eight kilos I got for myself was... more than I really need (or at least have space for). I picked up two slices of most of the QLCs, but four of this particular one. So I have decided to let two of those slices go.
 
-While I am satisfied with all of the (six) Yongtaifu QLC teas I bought, if I had to pick my favorites it would be a shared top spot for this 2010 "Fully Fire-Roasted" Furong QLC and the 2013 "Gaoma Wang" QLC. The 2010 Jiulongchi QLC and the 2012 Xiangyaxi QLC would be very close contenders. Note that the roasting style on these make them rather "forward-heavy", most of the magic happens in the initial 3-4 steeps though good quialities linger at a lower capacity well beyond that.
+While I am satisfied with all of the (six) Yongtaifu QLC teas I bought, if I had to pick my favorites it would be a shared top spot for this 2010 "Fully Fire-Roasted" Furong QLC and the 2013 "Gaoma Wang" QLC. The 2010 Jiulongchi QLC and the 2012 Xiangyaxi QLC would be very close contenders. Note that the roasting style on these make them rather "front-heavy". Most of the magic happens in the initial 3-4 steeps though good quialities linger at a lower capacity well beyond that.
 
 I hope to be able to offer more from Yongtaifu in the future, but with the prices their QLCs typically command my guess is that it won't happen anytime soon. They do have some other more affordable teas though, that could be a good entry point for someone interested in experiencing their production style.
 
@@ -60,5 +60,4 @@ Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural o
 ![Brewing](/images/teas/2010-yongtaifu-furong-qlc/2010-yongtaifu-furong-qlc-brewing.jpg)
 ![Steeped leaf](/images/teas/2010-yongtaifu-furong-qlc/2010-yongtaifu-furong-qlc-steeped-leaf.jpg)
 ![Tea soup](/images/teas/2010-yongtaifu-furong-qlc/2010-yongtaifu-furong-qlc-tea-soup.jpg)
-![Brand book mention](/images/teas/2010-yongtaifu-furong-qlc/ytf-2007-hunan-heicha-mention.jpg)
  
