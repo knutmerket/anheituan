@@ -35,7 +35,7 @@ I'll defer to MOFCOM's [company introduction](https://lzhbwg.mofcom.gov.cn/edi_e
 
 ##### That's probably plenty for a company introduction. Onto the specific tea on offer here
 
-In March 2025, a Shanghai collector with a strong affinity for Yongtaifu teas posted a note announcing that he was moving abroad and needed to sell most of his collection. Attached to the post was a spreadsheet ([excerpt](/images/teas/2010-yongtaifu-furong-qlc/yongtaifu-excel-inventory.jpg)) with an overview of the relevant inventory, quite literally more than a ton of tea. Most people took note and moved on, as they guy clearly stated his minimum requirements for spend amount and wasn't interested in dealing with small fish.
+In March 2025, a Shanghai collector with a strong affinity for Yongtaifu teas posted a note announcing that he was moving abroad and needed to sell most of his collection. Attached to the post was a spreadsheet with an overview of the relevant inventory, quite literally more than a ton of tea. Most people took note and moved on, as they guy clearly stated his minimum requirements for spend amount and wasn't interested in dealing with small fish.
 
 About a month later though, a vendor I know picked up a bunch of his teas, including a number of qianliangcha logs from 2010-13. 
 
