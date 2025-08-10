@@ -43,4 +43,5 @@ For those interested in blurbs, [here's one](https://m.sohu.com/n/384534928/?pvi
 ![Wrapper signature](/images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-wrapper-back.jpg)
 ![Wrapper signature](/images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-wrapper-side.jpg)
 ![Magazine cover](/images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-magazine-cover.jpg)
+![Tea soup](/images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-tea-soup.jpg)
  
