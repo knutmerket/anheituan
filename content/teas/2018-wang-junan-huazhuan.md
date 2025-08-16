@@ -5,7 +5,7 @@ date: 2025-08-30
 tags: Wang Junan, Gaomaerxi material, Hunan storage, Huazhuan
 slug: 2018-wang-junan-huazhuan
 status: published
-featured_image: images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-steeped-leaves.jpg
+featured_image: images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-brick.jpg
 ---
 
 - **Production year:** 2018
@@ -21,13 +21,13 @@ featured_image: images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-st
 
 After [being featured](https://youtu.be/2ezpX_wDqAw?t=974) in an episode of the CCTV Documentary series "[*北纬30°·中国行*](https://baike.baidu.com/item/%E5%8C%97%E7%BA%AC30%C2%B0%C2%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C/4278644)" in 2015, Wang Junan shot to fame in the Anhua Heicha industry and to some extent beyond, later opening tea rooms in Beijing and Shenzhen. Perhaps due to the focus of that documentary episode, it is especially his qianliangcha production that he is known for.
 
-That's enought for a short ~~hagiography~~ intro, onto the tea. I was pretty hesitant about putting this up on the site, mostly because it doesn't really check many of the boxes people typically look for in heicha. Fermetation is light. Flavor wise it is rather delicate, with a floral and herbal base, and some honey in the background. Slight tartness when pushed hard, as is typical for these teas. I believe the strongest qualities of this particular tea are to be found in "body feel" and energy type descriptors, which are subjective (and woo) enough that I’ll spare you my attempt to explain them. And for those who care about such things, Wang Junan was also adamant about not using chemical fertilizers or pesticides (another claim I cannot verify, but his teas have always felt very clean to me, even before I read about his attitude towards the mentioned inputs).
+That's enought for a short ~~hagiography~~ intro, onto the tea. I was pretty hesitant about putting this up on the site, mostly because it doesn't really check many of the boxes people typically look for in heicha. Fermetation is light, there is little smokiness. Flavor wise it is rather delicate, with a floral and herbal base, and some honey in the background. Slight tartness when pushed hard, as is typical for these teas. I believe the strongest qualities of this particular tea are to be found in "body feel" and energy type descriptors, which are subjective (and woo) enough that I’ll spare you my attempt to describe them. And for those who care about such things, Wang Junan was also adamant about not using chemical fertilizers or pesticides (another claim I cannot verify, but his teas have always felt very clean to me, even before I read about his attitude towards the mentioned inputs).
 
 While Wang Junan teas show some variation in processing and taste profiles, he tended to scoff at some of the more typical styles of his peers, saying things like this:
 
 > "糯香、荷香、药香、陈香,任何香型都不重要——那都是可以通过工艺制作出来的。只有泥土味最重要。"
 
-... I never really found that quote fully reflected in the taste of his qian- and bailiang output (which typically display the camphor forward taste Gaomaerxi is famous for) — but with this huazhuan I do. Very different from the heavier delivery of e.g. **Youxin's (友信)** bricks (another noticable Gaomaerxi producer).
+... I never really found that quote fully reflected in the taste of his qian- and bailiang output (which typically display the camphor forward taste Gaomaerxi is famous for) — but with this huazhuan I do. Very different from the heavier delivery of e.g. **Youxin's (友信)** bricks (another noteworthy Gaomaerxi producer).
 
 In any case, if you feel like blinding 800 grams of "subtle qualities", this is your chance. The brick is a mix of grade 2/3 material, I recommend a slightly heavier ratio than you would typically use (and a long initial steep to get things started). I also strongly recommend getting a pair of [tea scissors](/images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-cut-brick.jpg) for these types of bricks: the compression is really tight. I don’t stock those, but I can help you buy a pair from Taobao and add them to your order if you’re interested.
 
