@@ -39,9 +39,9 @@ Note: This tea contains golden flowers (Jinhua/金花) which may have been inocu
 
 ---
 
-
 ![Wrapper front](/images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-front.jpg)
 ![Wrapper signature](/images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-signature.jpg)
 ![Wrapper back](/images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-back.jpg)
 ![Unwrapped brick](/images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-unwrapped-brick.jpg)
+![Spent leaves](/images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-spent-leaves.jpg)
  
