@@ -1,7 +1,7 @@
 ---
 title: 2018 Yunshang "Yezhen" Qianliangcha
 category: teas
-date: 2025-08-24
+date: 2025-09-06
 tags: Yunshang, Hunan storage, Yuntaishan material, QLC
 slug: 2018-yunshang-yezhen-qlc
 status: published
@@ -19,19 +19,15 @@ featured_image: images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-lo
 
 ---
 
-**Yunshang (云上)** is one of the most reputable producers with a Yuntaishan focus. Or at least they *were*, until they got caught up with some issues (not related to the tea) in 2023 that saw the brand more or less disappear from the world unitl it reemerged with what appeared to be new management quite recently.
+**Yunshang's (云上)** history goes back to around 2008, when the company opened the first gardens. They then gradually aquired more land in peripheral areas of Yuntaishan with plenty of supposedly (semi-)untended gardens of older trees. Their factory was built in 2014 and they started producing teas the same year. From 2016 their main series of teas (and distributor relations) were established. The company's **Yunyin (云隐)** series - their premium line of tea - quickly became a favorite among Anhua heichas fans.
 
-In any case, the company opened their first gardens in 2008 and their factory in 2014. Yunshang gradually aquired more land in peripheral areas of Yuntaishan with plenty of supposedly semi-untended gardens of older trees. Their production output in the years 2015-20 was sorted into different production series, corresponding to different qualities and price points. It is generally agreed that their top line of that time, the 云隐 (Yunyin) series, is the one worthy of attention.
-
-In the years 2016-20, Yunshang produced [two Qianliang teas](/images/teas/2018-yunshang-yezhen-qlc/yunshang-qlc-catalogue.jpeg) under their premium 云隐 (Yunyin) series; the 野臻千两 (Yezhen Qianliang) and the 大叶千两 (Daye Qianliang). Several of you will have tried the latter from one of the two group buys I did for the 2016 version of that tea (first batch). But the Yezhen (2018) was the first I tried (and actually the first QLC I bought a full slice back in 2021).
+In the years 2016-20, Yunshang produced [two Qianliang teas](/images/teas/2018-yunshang-yezhen-qlc/yunshang-qlc-catalogue.jpeg) under their Yunyin series; the 野臻千两 (Yezhen Qianliang) and the 大叶千两 (Daye Qianliang). Some of you will have tried the latter from one of the two group buys I did for its 2016 version (the first batch). But the Yezhen was the first of the company's QLCs I tried (and the first QLC from any producer that I bought a full slice of).
 
 That's the same tea, and the same production year, that's on offer here. 200 logs were made in 2018. I haven't seen a full log of this tea being split in the four years that have passed since I got my first slice of it, so I was pretty excited when *two* logs were recently split.
 
-The Yezhen QLC is very different from the Daye QLC. In a somewhat awkward comparison I once made:
+The Yezhen QLC is very different from the Daye QLC. Daye has a "classical" profile (with 3/4 grade leaves), and can veer into more tart territory when pushed hard. Yezhen (2/3 grade leaves) is more erratic and unorthodox for a QLC, with a good amount of bitterness that resolves into sweetness . The latter is also a tea I believe still has far to go in terms of improving through aging, despite being enjoyable already.
 
-> (In Brothers Karamazov characters, the Daye is Alyosha and the Yezhen is Ivan. Or in Dream of the Red Chamber characters, the Daye is Baochai and the Yezhen is Daiyu. I’ll stop there.)
-
-The Daye is a more classical profile, while Yezhen is much more erratic and unorthodox for a QLC. The latter is also a tea I believe still has far to go in terms of improving through aging, being more punchy with a good amount of bitterness (that resolves into sweetness). That being said, it is very enjoyable already, but requires a bit more skillfull brewing that more forgiving QLCs.
+I once compared the two teas to Ivan/Alyosha in *Brothers Karamazov* or Daiyu/Baochai in *Dream of the Red Chamber*. If nothing else, I believe the fact that I would make this awkward comparison says something about the regard I hold these two teas in. If pushed to chose a favorite among them though I'd have to go with the Yezhen, partially for being the more unique and punchy of the two.
 
 *<p class="small-paragraph">
 Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.
@@ -39,7 +35,7 @@ Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural o
 
 ---
 
-
+![Tea soup](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-tea-soup.JPG)
+![Spent leaves](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-spent-leaves.JPG)
 ![Clothed logs](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-w-cloth.jpg)
 ![Unwrapped log](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-wo-cloth.jpg)
-
