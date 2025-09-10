@@ -14,7 +14,7 @@ featured_image: images/teas/2010-yongtaifu-furong-qlc/2010-yongtaifu-furong-qlc-
 - **Log weight:** 36.25 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
 - **Price:** USD 75 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 ---
 
