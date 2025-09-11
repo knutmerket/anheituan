@@ -85,12 +85,28 @@
 {% if articles %}
 <div class="container">
   <div class="tea-grid">
-    {% for article in articles %}
-    <div class="tea-item">
+    {% set sorted_articles = articles
+    |sort(attribute='date', reverse=True)
+    |sort(attribute='metadata.availability') %}
+    {% for article in sorted_articles %}
+    <div class="tea-item {% if article.metadata.availability == 'out of stock' %}out-of-stock{% endif %}">
       <a href="{{ SITEURL }}/{{ article.url }}">
         {% if article.featured_image %}
-        <img src="{{ SITEURL }}/{{ article.featured_image }}" alt="{{ article.title }}">
+        <div class="image-wrapper">
+          <div class="image-container">
+            <img src="{{ SITEURL }}/{{ article.featured_image }}" alt="{{ article.title }}">
+            {% if article.metadata.availability == 'out of stock' %}
+            <span class="ribbon">Out of Stock</span>
+            {% endif %}
+          </div>
+        </div>
         {% endif %}
+
+        {# Price badge only if in stock #}
+        {% if article.metadata.price and article.metadata.availability != 'out of stock' %}
+        <span class="badge price-badge">{{ article.metadata.price }}</span>
+        {% endif %}
+
         <h3 class="tea-title">{{ article.title }}</h3>
       </a>
     </div>

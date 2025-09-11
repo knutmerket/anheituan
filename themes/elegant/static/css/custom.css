@@ -16,6 +16,7 @@
   text-align: center;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative; /* needed for ribbon positioning */
 }
 
 .tea-item:hover {
@@ -23,12 +24,32 @@
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
 }
 
-.tea-item img {
+/* Wrapper to enforce consistent image height */
+.image-wrapper {
   width: 100%;
-  height: auto;
-  display: block;
+  height: 0;
+  padding-bottom: 100%; /* square; adjust if you prefer rectangle */
+  position: relative;
+  overflow: hidden;
 }
 
+.image-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* fills container without stretching */
+  display: block;
+  transition: filter 0.3s ease;
+}
+
+/* Tea title */
 .tea-title {
   font-size: 1.2rem;
   margin: 1rem;
@@ -36,6 +57,7 @@
   color: #333;
 }
 
+/* Subtitles and small paragraphs */
 .site-subtitle {
     display: block;
     font-size: 0.7em;
@@ -51,4 +73,64 @@
     color: #666; /* optional: makes it slightly muted */
     line-height: 1.4;
     margin-top: 0.5em;
+}
+
+/* --- Out of Stock Ribbon (larger, less steep, transparent gradient) --- */
+
+.ribbon {
+    position: absolute;
+    top: 0.5rem;             /* slightly higher */
+    right: -2rem;            /* adjust for width and rotation */
+    width: 10rem;            /* same as before */
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5rem 0;
+    transform: rotate(30deg); /* less steep than before */
+    font-size: 0.8rem;
+    z-index: 2;
+    color: white;
+
+    /* gradient background for subtle transparency */
+    background: linear-gradient(
+        30deg,
+        rgba(220, 50, 50, 0.85) 0%,
+        rgba(220, 50, 50, 0.7) 100%
+    );
+
+    /* subtle shadow for readability on any image */
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+
+/* Dim the image slightly for out-of-stock teas */
+.tea-item.out-of-stock img {
+    filter: brightness(75%);
+}
+
+/* Price badge below image, above title */
+.price-badge {
+    display: inline-block;
+    background-color: #f5a623; /* warm highlight color */
+    color: white;
+    font-weight: bold;
+    padding: 0.4rem 0.7rem;   /* slightly bigger than before */
+    border-radius: 4px;
+    font-size: 0.95rem;       /* larger font */
+    margin: 0.5rem 0 0.3rem 0; /* spacing above and below */
+    text-align: center;
+
+    /* Add subtle shadow to improve contrast */
+    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+/* Responsive adjustment for small screens */
+@media (max-width: 480px) {
+    .ribbon {
+        width: 6.5rem;      /* proportionally smaller for mobile */
+        font-size: 0.7rem;
+        right: -1.8rem;     /* adjust placement for rotation */
+        padding: 0.3rem 0;
+        transform: rotate(30deg);
+    }
 }

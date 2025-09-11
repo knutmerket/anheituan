@@ -5,6 +5,8 @@ date: 2025-07-14
 tags: Gaojiashan, Yuntaishan material, Hunan storage, Heizhuan
 slug: 2012-gaojiashan-heizhuan
 status: published
+price: $45
+availability: in stock
 featured_image: images/teas/2012-gaojiashan-heizhuan/2012-gaojiashan-heizhuan-wrapper-front.jpg
 ---
 

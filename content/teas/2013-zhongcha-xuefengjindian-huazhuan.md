@@ -5,6 +5,8 @@ date: 2025-07-14
 tags: Zhongcha, Hunan storage, Huazhuan
 slug: 2013-zhongcha-xuefengjindian-huazhuan
 status: published
+price: $15
+availability: in stock
 featured_image: images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-magazine-cover.jpg
 ---
 

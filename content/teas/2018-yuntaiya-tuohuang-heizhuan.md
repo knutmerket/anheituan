@@ -5,6 +5,8 @@ date: 2025-08-29
 tags: Yuntaiya, Bajiao, Yuntaishan material, Hunan storage, Heizhuan
 slug: 2018-yuntaiya-tuohuang-heizhuan
 status: published
+price: $30
+availability: in stock
 featured_image: images/teas/2018-yuntaiya-tuohuang-heizhuan/2018-yuntaiya-tuohuang-heizhuan-front-wrapper.jpg
 ---
 
