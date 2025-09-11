@@ -125,12 +125,14 @@
 }
 
 /* Responsive adjustment for small screens */
+/* Responsive adjustment for small screens */
 @media (max-width: 480px) {
     .ribbon {
-        width: 6.5rem;      /* proportionally smaller for mobile */
-        font-size: 0.7rem;
-        right: -1.8rem;     /* adjust placement for rotation */
-        padding: 0.3rem 0;
-        transform: rotate(30deg);
+        width: 6rem;          /* slightly narrower to fit */
+        font-size: 0.7rem;    /* keep it readable */
+        right: -1.2rem;       /* adjust offset */
+        padding: 0.25rem 0;   /* slightly smaller padding */
+        transform: rotate(25deg); /* slightly less steep rotation */
     }
 }
+
