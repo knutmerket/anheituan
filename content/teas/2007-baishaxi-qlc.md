@@ -5,6 +5,8 @@ date: 2025-06-24
 tags: Baishaxi, Guangdong storage, QLC
 slug: 2007-baishaxi-qlc
 status: published
+price: $60
+availability: in stock
 featured_image: images/teas/2007-baishaxi-qlc/2007-bsx-qlc-whole-log.jpg
 ---
 

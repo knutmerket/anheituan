@@ -5,6 +5,8 @@ date: 2025-06-30
 tags: Gaojiashan, Yuntaishan material, Hunan storage, Fuzhuan
 slug: 2014-gaojiashan-fuwang
 status: published
+price: $45
+availability: in stock
 featured_image: images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-front.jpg
 ---
 

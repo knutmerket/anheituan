@@ -5,6 +5,8 @@ date: 2025-06-24
 tags: Baishaxi, Yuntaishan material, Hunan storage, QLC
 slug: 2006-baishaxi-qlc
 status: published
+price: $100
+availability: in stock
 featured_image: images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg
 ---
 

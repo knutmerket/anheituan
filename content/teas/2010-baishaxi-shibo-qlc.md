@@ -5,6 +5,8 @@ date: 2025-06-24
 tags: Baishaxi, Hunan storage, Gaomaerxi material, QLC
 slug: 2010-baishaxi-shibo-qlc
 status: published
+price: $65
+availability: in stock
 featured_image: images/teas/2010-baishaxi-shibo-qlc/2010-baishaxi-shibo-qlc-whole-log.jpg
 ---
 

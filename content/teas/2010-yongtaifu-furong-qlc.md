@@ -5,6 +5,8 @@ date: 2025-07-22
 tags: Yongtaifu, Shanghai storage, Furongshan material, QLC
 slug: 2010-yongtaifu-furong-qlc
 status: published
+price: $75
+availability: out of stock
 featured_image: images/teas/2010-yongtaifu-furong-qlc/2010-yongtaifu-furong-qlc-log-label.jpg
 ---
 
