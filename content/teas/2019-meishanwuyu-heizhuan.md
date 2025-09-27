@@ -6,6 +6,7 @@ tags: Meishan Wuyu, Gaomaerxi material, Hunan storage, Heizhuan
 slug: 2019-meishanwuyu-heizhuan
 status: published
 price: $40
+unit_weight: 500g
 availability: in stock
 featured_image: images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-front-inner-package.jpg
 ---

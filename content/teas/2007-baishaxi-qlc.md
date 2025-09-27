@@ -6,6 +6,7 @@ tags: Baishaxi, Guangdong storage, QLC
 slug: 2007-baishaxi-qlc
 status: published
 price: $60
+unit_weight: ~650g
 availability: in stock
 featured_image: images/teas/2007-baishaxi-qlc/2007-bsx-qlc-whole-log.jpg
 ---

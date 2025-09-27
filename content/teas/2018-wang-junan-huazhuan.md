@@ -6,6 +6,7 @@ tags: Wang Junan, Gaomaerxi material, Hunan storage, Huazhuan
 slug: 2018-wang-junan-huazhuan
 status: published
 price: $50
+unit_weight: 800g
 availability: in stock
 featured_image: images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-brick.jpg
 ---

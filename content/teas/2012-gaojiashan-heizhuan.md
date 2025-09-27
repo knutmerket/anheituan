@@ -6,6 +6,7 @@ tags: Gaojiashan, Yuntaishan material, Hunan storage, Heizhuan
 slug: 2012-gaojiashan-heizhuan
 status: published
 price: $45
+unit_weight: 1 kg
 availability: in stock
 featured_image: images/teas/2012-gaojiashan-heizhuan/2012-gaojiashan-heizhuan-wrapper-front.jpg
 ---

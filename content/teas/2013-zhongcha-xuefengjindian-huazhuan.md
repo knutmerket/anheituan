@@ -6,6 +6,7 @@ tags: Zhongcha, Hunan storage, Huazhuan
 slug: 2013-zhongcha-xuefengjindian-huazhuan
 status: published
 price: $15
+unit_weight: ~200g
 availability: in stock
 featured_image: images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-magazine-cover.jpg
 ---

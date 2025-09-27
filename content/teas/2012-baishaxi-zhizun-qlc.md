@@ -6,6 +6,7 @@ tags: Baishaxi, Hunan storage, Yuntaishan material, QLC
 slug: 2012-baishaxi-zhizun-qlc
 status: published
 price: $55
+unit_weight: ~700g
 availability: in stock
 featured_image: images/teas/2012-baishaxi-zhizun-qlc/2012-baishaxi-zhizun-qlc-log-back.jpg
 ---
