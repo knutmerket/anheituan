@@ -11,7 +11,7 @@ availability: in stock
 featured_image: images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-pic.jpg
 ---
 
-- **Production year:** 2012
+- **Production year:** 2008
 - **Storage:** Hunan
 - **Month cut:** September 2025
 - **Log weight:** 62.75 kg 
