@@ -35,7 +35,7 @@ For those interested in an official blurb [**here's**](/images/teas/2008-baishax
 
 ---
 
-![Tea ad](/images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-spent-leaves.jpg)
+![Spent leaves](/images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-spent-leaves.jpg)
 ![Tea ad](/images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-ad.jpg)
 ![Wrapped logs](/images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-logs.jpg)
 ![Certificate cover](/images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-cert-cover.jpg)
