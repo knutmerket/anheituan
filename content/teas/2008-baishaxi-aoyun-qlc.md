@@ -5,7 +5,7 @@ date: 2025-10-05
 tags: Baishaxi, Hunan storage, Gaomaerxi material, QLC
 slug: 2008-baishaxi-aoyun-qlc
 status: published
-price: $130
+price: $120
 unit_weight: ~650g
 availability: in stock
 featured_image: images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-pic.jpg
@@ -16,7 +16,7 @@ featured_image: images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-pic.
 - **Month cut:** September 2025
 - **Log weight:** 62.75 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
-- **Price:** USD 130 / slice  
+- **Price:** USD 120 / slice  
 - **Availability:** In stock
 
 
