@@ -28,6 +28,10 @@ https://www.youtube.com/watch?v=HtAmLhkBksQ - Li Yuanlong teas feature in a bunc
 (4.53) - Wu Jianli together with ....
 I recommend this short documentary to anyone interested in QLCs
 
+Taiwanese tea scholar Zeng Zhixian 曾志贤 - the author of what might be the most famous book about Anhua Heicha (despite covering all sorts of compressed teas) "方圆之缘—深探紧压茶世界" (2001) (http://www.culturetea.com/product/product_detail.asp?id=5152) 
+
+... in which he's trying to get to the bottom of which factory produced a specific QLC log from the 50s with the characters "华堂" written on it.
+
 (DHGM 高马卷 500 liang (20kg), 500 grams)
 (DHBT 天字卷 300 liang (12 kg) 400 grams)
 丁亥年 (2007)
