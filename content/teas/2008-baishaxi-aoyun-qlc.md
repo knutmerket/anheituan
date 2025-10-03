@@ -1,7 +1,7 @@
 ---
 title: 2008 Baishaxi "Olympics" Qianliangcha
 category: teas
-date: 2025-10-05
+date: 2025-10-03
 tags: Baishaxi, Hunan storage, Gaomaerxi material, QLC
 slug: 2008-baishaxi-aoyun-qlc
 status: published
