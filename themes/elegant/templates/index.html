@@ -104,7 +104,12 @@
 
         {# Price badge only if in stock #}
         {% if article.metadata.price and article.metadata.availability != 'out of stock' %}
-        <span class="badge price-badge">{{ article.metadata.price }}</span>
+        <span class="badge price-badge">
+          {{ article.metadata.price }}
+          {% if article.unit_weight %}
+            <span class="unit-weight"> / {{ article.unit_weight }}</span>
+          {% endif %}
+        </span>
         {% endif %}
 
         <h3 class="tea-title">{{ article.title }}</h3>

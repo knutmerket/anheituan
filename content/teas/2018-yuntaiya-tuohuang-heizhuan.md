@@ -6,6 +6,7 @@ tags: Yuntaiya, Bajiao, Yuntaishan material, Hunan storage, Heizhuan
 slug: 2018-yuntaiya-tuohuang-heizhuan
 status: published
 price: $30
+unit_weight: ~420g
 availability: in stock
 featured_image: images/teas/2018-yuntaiya-tuohuang-heizhuan/2018-yuntaiya-tuohuang-heizhuan-front-wrapper.jpg
 ---
