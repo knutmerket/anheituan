@@ -44,6 +44,6 @@ Copy, fill it in, and paste it into the email. (These are the required fields by
 
 
 > **Note:**  
-> Right now, shipping from China to the US is not ideal — regular postal services have been halted. Only more expensive courier options are available.
+> With regular postal services halted, shipping from China to the US has been more or less unavailable since May 2025. There is currently (October 2025) only two shipping options available from Shipforwarder: FedEx "tax free" (limit at 1kg, costs around USD 60) and "air freight to door (tax free)" (no specified size limit, around USD 60 for 1kg and USD 100 for 2kg)
 
 ---
