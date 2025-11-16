@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Anheituan</title><link>https://anheituan.com/</link><description>粗种有细</description><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0200</lastBuildDate><item><title>2007 Liyuanlong “Gaomajuan” Huajuan</title><link>https://anheituan.com/teas/2007-liyuanlong-gaomajuan.html</link><description>&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anheituan</title><link>https://anheituan.com/</link><description>粗种有细</description><atom:link href="https://anheituan.com/feeds/all.rss.xml" rel="self"/><lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0100</lastBuildDate><item><title>2006 Yongtaifu “Jiangzhoujuan” Qianliangcha</title><link>https://anheituan.com/teas/2006-yongtaifu-jiangzhoujuan-qlc.html</link><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2006&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; September&amp;nbsp;2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Log weight:&lt;/strong&gt; ~40&amp;nbsp;kg &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slice weight:&lt;/strong&gt; ~700g / slice (+/-&amp;nbsp;10%) &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price:&lt;/strong&gt; &lt;span class="caps"&gt;USD&lt;/span&gt; 90 /&amp;nbsp;slice&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;For a background on &lt;strong&gt;Yongtaifu (永泰福)&lt;/strong&gt;, see the listing for &lt;a href="/teas/2010-yongtaifu-furong-qlc.html"&gt;the 2010 Furong &lt;span class="caps"&gt;QLC&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.anhua.gov.cn/1/12/2266/content_659003.html"&gt;On the origin of the &amp;#8220;Jiangzhoujuan&amp;#8221; name&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;道光 …&lt;/p&gt;&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Sun, 16 Nov 2025 00:00:00 +0100</pubDate><guid>tag:anheituan.com,2025-11-16:/teas/2006-yongtaifu-jiangzhoujuan-qlc.html</guid><category>teas</category><category>Yongtaifu</category><category>Gaomaerxi material</category><category>Hunan storage</category><category>QLC</category></item><item><title>2016 Yejing “Yuanye Jingfu” Fuzhuan</title><link>https://anheituan.com/teas/2016-yejing-yuanye-jingfu.html</link><description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2016&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brick weight:&lt;/strong&gt; 500&amp;nbsp;gram&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price:&lt;/strong&gt; &lt;span class="caps"&gt;USD&lt;/span&gt; 50 /&amp;nbsp;brick&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Yejing (野境)&lt;/strong&gt; is the brand run by Wang Hua. Like many of the &amp;#8220;artisinal brands&amp;#8221;, Yejing does not have a factory of their own. To quoute myself from the &lt;a href="/teas/2019-meishanwuyu-heizhuan.html"&gt;Meishan Wuyu listing&lt;/a&gt;, a …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Sun, 16 Nov 2025 00:00:00 +0100</pubDate><guid>tag:anheituan.com,2025-11-16:/teas/2016-yejing-yuanye-jingfu.html</guid><category>teas</category><category>Yejing</category><category>Yuntaishan material</category><category>Hunan storage</category><category>Fuzhuan</category></item><item><title>2007 Liyuanlong “Gaomajuan” Huajuan</title><link>https://anheituan.com/teas/2007-liyuanlong-gaomajuan.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2007&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; September&amp;nbsp;2025&lt;/li&gt;
@@ -9,7 +30,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Liyuanlong (利源隆)&lt;/strong&gt; is one of the better known &amp;#8220;legacy brands&amp;#8221; in Anhua Heicha, in the same category as Yongtaifu and Liu Xiangrui (Daoran …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 03 Oct 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-10-03:/teas/2007-liyuanlong-gaomajuan.html</guid><category>teas</category><category>Liyuanlong</category><category>Hunan storage</category><category>Gaomaerxi material</category><category>QLC</category></item><item><title>2007 Liyuanlong “Tianzijuan” Huajuan</title><link>https://anheituan.com/teas/2007-liyuanlong-tianzijuan.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Liyuanlong (利源隆)&lt;/strong&gt; is one of the better known &amp;#8220;legacy brands&amp;#8221; in Anhua Heicha, in the same category as Yongtaifu and Liu Xiangrui (Daoran …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 03 Oct 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-10-03:/teas/2007-liyuanlong-gaomajuan.html</guid><category>teas</category><category>Liyuanlong</category><category>Hunan storage</category><category>Gaomaerxi material</category><category>QLC</category></item><item><title>2007 Liyuanlong “Tianzijuan” Huajuan</title><link>https://anheituan.com/teas/2007-liyuanlong-tianzijuan.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2007&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; September&amp;nbsp;2025&lt;/li&gt;
@@ -19,7 +40,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Liyuanlong (利源隆)&lt;/strong&gt; is one of the better known &amp;#8220;legacy brands&amp;#8221; in Anhua Heicha, in the same category as Yongtaifu and Liu Xiangrui (Daoran …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 03 Oct 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-10-03:/teas/2007-liyuanlong-tianzijuan.html</guid><category>teas</category><category>Liyuanlong</category><category>Hunan storage</category><category>Liudong material</category><category>QLC</category></item><item><title>2008 Baishaxi “Olympics” Qianliangcha</title><link>https://anheituan.com/teas/2008-baishaxi-aoyun-qlc.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Liyuanlong (利源隆)&lt;/strong&gt; is one of the better known &amp;#8220;legacy brands&amp;#8221; in Anhua Heicha, in the same category as Yongtaifu and Liu Xiangrui (Daoran …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 03 Oct 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-10-03:/teas/2007-liyuanlong-tianzijuan.html</guid><category>teas</category><category>Liyuanlong</category><category>Hunan storage</category><category>Liudong material</category><category>QLC</category></item><item><title>2008 Baishaxi “Olympics” Qianliangcha</title><link>https://anheituan.com/teas/2008-baishaxi-aoyun-qlc.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2008&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; September&amp;nbsp;2025&lt;/li&gt;
@@ -29,7 +50,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Baishaxi (白沙溪)&lt;/strong&gt; is arguably the most well-known producer of Qianliang tea (and Anhua heicha in general) today, so the company likely needs …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 03 Oct 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-10-03:/teas/2008-baishaxi-aoyun-qlc.html</guid><category>teas</category><category>Baishaxi</category><category>Hunan storage</category><category>Gaomaerxi material</category><category>QLC</category></item><item><title>2012 Baishaxi “Zhizun” Qianliangcha</title><link>https://anheituan.com/teas/2012-baishaxi-zhizun-qlc.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Baishaxi (白沙溪)&lt;/strong&gt; is arguably the most well-known producer of Qianliang tea (and Anhua heicha in general) today, so the company likely needs …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 03 Oct 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-10-03:/teas/2008-baishaxi-aoyun-qlc.html</guid><category>teas</category><category>Baishaxi</category><category>Hunan storage</category><category>Gaomaerxi material</category><category>QLC</category></item><item><title>2012 Baishaxi “Zhizun” Qianliangcha</title><link>https://anheituan.com/teas/2012-baishaxi-zhizun-qlc.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2012&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; August&amp;nbsp;2025&lt;/li&gt;
@@ -39,7 +60,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Baishaxi (白沙溪)&lt;/strong&gt; is arguably the most well-known producer of Qianliang tea (and Anhua heicha in general) today, so the company likely needs …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Sat, 13 Sep 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-09-13:/teas/2012-baishaxi-zhizun-qlc.html</guid><category>teas</category><category>Baishaxi</category><category>Hunan storage</category><category>Yuntaishan material</category><category>QLC</category></item><item><title>2018 Yunshang “Yezhen” Qianliangcha</title><link>https://anheituan.com/teas/2018-yunshang-yezhen-qlc.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Baishaxi (白沙溪)&lt;/strong&gt; is arguably the most well-known producer of Qianliang tea (and Anhua heicha in general) today, so the company likely needs …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Sat, 13 Sep 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-09-13:/teas/2012-baishaxi-zhizun-qlc.html</guid><category>teas</category><category>Baishaxi</category><category>Hunan storage</category><category>Yuntaishan material</category><category>QLC</category></item><item><title>2018 Yunshang “Yezhen” Qianliangcha</title><link>https://anheituan.com/teas/2018-yunshang-yezhen-qlc.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2018&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; August&amp;nbsp;2025&lt;/li&gt;
@@ -49,7 +70,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Yunshang&amp;#8217;s (云上)&lt;/strong&gt; history goes back to around 2008, when the company opened the first gardens. Over time they gradually acquired more land …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Sat, 06 Sep 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-09-06:/teas/2018-yunshang-yezhen-qlc.html</guid><category>teas</category><category>Yunshang</category><category>Hunan storage</category><category>Yuntaishan material</category><category>QLC</category></item><item><title>2018 Wang Junan Huazhuan</title><link>https://anheituan.com/teas/2018-wang-junan-huazhuan.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Yunshang&amp;#8217;s (云上)&lt;/strong&gt; history goes back to around 2008, when the company opened the first gardens. Over time they gradually acquired more land …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Sat, 06 Sep 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-09-06:/teas/2018-yunshang-yezhen-qlc.html</guid><category>teas</category><category>Yunshang</category><category>Hunan storage</category><category>Yuntaishan material</category><category>QLC</category></item><item><title>2018 Wang Junan Huazhuan</title><link>https://anheituan.com/teas/2018-wang-junan-huazhuan.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2018&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Brick weight:&lt;/strong&gt;&amp;nbsp;800g &lt;/li&gt;
@@ -57,7 +78,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Wang Junan (王军安)&lt;/strong&gt; (aka. brand name &amp;#8220;Hongyi Chaxian&amp;#8221; (宏毅茶栈)) is one of the more, if not the most, known of the non-big-factory producers with a &lt;strong&gt;Gaomaerxi (高马二溪 …&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-08-29:/teas/2018-wang-junan-huazhuan.html</guid><category>teas</category><category>Wang Junan</category><category>Gaomaerxi material</category><category>Hunan storage</category><category>Huazhuan</category></item><item><title>2018 Yuntaiya “Tuohuang” Heizhuan</title><link>https://anheituan.com/teas/2018-yuntaiya-tuohuang-heizhuan.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Wang Junan (王军安)&lt;/strong&gt; (aka. brand name &amp;#8220;Hongyi Chaxian&amp;#8221; (宏毅茶栈)) is one of the more, if not the most, known of the non-big-factory producers with a &lt;strong&gt;Gaomaerxi (高马二溪 …&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-08-29:/teas/2018-wang-junan-huazhuan.html</guid><category>teas</category><category>Wang Junan</category><category>Gaomaerxi material</category><category>Hunan storage</category><category>Huazhuan</category></item><item><title>2018 Yuntaiya “Tuohuang” Heizhuan</title><link>https://anheituan.com/teas/2018-yuntaiya-tuohuang-heizhuan.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2018&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Brick weight:&lt;/strong&gt; 1.8&amp;nbsp;kg &lt;/li&gt;
@@ -66,7 +87,7 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Yuntaiya (云台崖) / Bajiao (八角)&lt;/strong&gt; is a medium-sized, &lt;strong&gt;Yuntaishan&lt;/strong&gt; focused producer. The company founder, Gong Shousong, gained some notoriety from cultivating and popularizing the first generation …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-08-29:/teas/2018-yuntaiya-tuohuang-heizhuan.html</guid><category>teas</category><category>Yuntaiya</category><category>Bajiao</category><category>Yuntaishan material</category><category>Hunan storage</category><category>Heizhuan</category></item><item><title>2019 Meishan Wuyu “Dichen” Heizhuan</title><link>https://anheituan.com/teas/2019-meishanwuyu-heizhuan.html</link><description>&lt;ul&gt;
+&lt;p&gt;&lt;strong&gt;Yuntaiya (云台崖) / Bajiao (八角)&lt;/strong&gt; is a medium-sized, &lt;strong&gt;Yuntaishan&lt;/strong&gt; focused producer. The company founder, Gong Shousong, gained some notoriety from cultivating and popularizing the first generation …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-08-29:/teas/2018-yuntaiya-tuohuang-heizhuan.html</guid><category>teas</category><category>Yuntaiya</category><category>Bajiao</category><category>Yuntaishan material</category><category>Hunan storage</category><category>Heizhuan</category></item><item><title>2019 Meishan Wuyu “Dichen” Heizhuan</title><link>https://anheituan.com/teas/2019-meishanwuyu-heizhuan.html</link><description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2019&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Brick weight:&lt;/strong&gt;&amp;nbsp;500g&lt;/li&gt;
@@ -74,24 +95,4 @@
 &lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Meishan Wuyu (梅山物语)&lt;/strong&gt; was a smaller Anhua heicha brand. (I&amp;#8217;m not sure if they&amp;#8217;re still around — the abandoned WeChat account suggests they aren&amp;#8217;t.) The brand was just that: a …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-08-29:/teas/2019-meishanwuyu-heizhuan.html</guid><category>teas</category><category>Meishan Wuyu</category><category>Gaomaerxi material</category><category>Hunan storage</category><category>Heizhuan</category></item><item><title>2010 Yongtaifu Furong Qianliangcha (全火烧料)</title><link>https://anheituan.com/teas/2010-yongtaifu-furong-qlc.html</link><description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2010&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Shanghai&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Month cut:&lt;/strong&gt; April&amp;nbsp;2025&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Log weight:&lt;/strong&gt; 36.25&amp;nbsp;kg &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Slice weight:&lt;/strong&gt; ~650g / slice (+/-&amp;nbsp;10%) &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Price:&lt;/strong&gt; &lt;span class="caps"&gt;USD&lt;/span&gt; 75 /&amp;nbsp;slice  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; &lt;span style="color:red"&gt;&lt;strong&gt;Out of&amp;nbsp;stock&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;br&gt;
-Unlike any of the other teas listed, this one is in my local storage and thus ships from Norway. This means two …&lt;/p&gt;&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Tue, 22 Jul 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-07-22:/teas/2010-yongtaifu-furong-qlc.html</guid><category>teas</category><category>Yongtaifu</category><category>Shanghai storage</category><category>Furongshan material</category><category>QLC</category></item><item><title>2012 Gaojiashan “Tezhi” Heizhuan</title><link>https://anheituan.com/teas/2012-gaojiashan-heizhuan.html</link><description>&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Production year:&lt;/strong&gt;&amp;nbsp;2012&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Storage:&lt;/strong&gt;&amp;nbsp;Hunan&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Brick weight:&lt;/strong&gt; 1&amp;nbsp;kg &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Price:&lt;/strong&gt; &lt;span class="caps"&gt;USD&lt;/span&gt; 45 /&amp;nbsp;brick&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Availability:&lt;/strong&gt; In&amp;nbsp;stock&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Gaojiashan (高家山)&lt;/strong&gt; is a fairly big operation — not in the league of Baishaxi, Zhongcha, or Xiangyi, but in that tier of medium-sized Anhua heicha producers one level below. A common assessment is …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Mon, 14 Jul 2025 00:00:00 +0200</pubDate><guid isPermaLink="false">tag:anheituan.com,2025-07-14:/teas/2012-gaojiashan-heizhuan.html</guid><category>teas</category><category>Gaojiashan</category><category>Yuntaishan material</category><category>Hunan storage</category><category>Heizhuan</category></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;Meishan Wuyu (梅山物语)&lt;/strong&gt; was a smaller Anhua heicha brand. (I&amp;#8217;m not sure if they&amp;#8217;re still around — the abandoned WeChat account suggests they aren&amp;#8217;t.) The brand was just that: a …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Balthazar</dc:creator><pubDate>Fri, 29 Aug 2025 00:00:00 +0200</pubDate><guid>tag:anheituan.com,2025-08-29:/teas/2019-meishanwuyu-heizhuan.html</guid><category>teas</category><category>Meishan Wuyu</category><category>Gaomaerxi material</category><category>Hunan storage</category><category>Heizhuan</category></item></channel></rss>
