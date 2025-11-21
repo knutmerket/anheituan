@@ -73,7 +73,7 @@ Let's round off with an appeal to authority:
 1) Li Shengfu (Yongtaifu) confidently bragging about about the amount of jinhua, only to be disappointed when the prospective client ignorantly asks if the tea has gone mouldy  
 2) Xiao Hong on this question (estimates 90% of huajuans develop jinhua)  
 3) Xiao Yiping on this question  
-4) Baishaxi video on this (English marchine translation subs)  
+4) Baishaxi video on this (English machine translation subs)  
 
 <style>
 /* responsive grid that places embeds side-by-side */
