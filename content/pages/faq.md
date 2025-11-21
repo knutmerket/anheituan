@@ -52,11 +52,129 @@ I usually go with 2–4 weeks of resting time. Rule of thumb: Never shorter than
 
 ### Should Anhua heicha be stored with or without added humidity?
 
-For the majority of Western storages: With added humidity. In terms of temperature and humidity I treat Anhua Heichas like I treat sheng puer. 69% or 72% bovedas, depending on what I happen to have at hand. If I were to pick one of those numbers, I'd go with 69%.
+For the majority of Western storages: With added humidity. In terms of temperature and humidity I treat Anhua Heichas like I treat sheng puer. 69% or 72% bovedas, depending on what I happen to have at hand. If I were to pick one of those numbers, I'd go with 69%. 
 
-I use mylar bags for storage. I don't do heated storage, but if you do (e.g. for puer) I don't see any reason why you shouldn't try the same for Anhua heicha.
+(Wu Jianli, founder of Liyuanlong, warns against going below 50% or above 75% relative humidity for long periods of time.)
+
+I use mylar bags for storage. I don't do heated storage, but if you do I don't see any reason why you shouldn't try the same for Anhua heicha.
 
 Be careful with added humidity if there are big temperature fluctuations in your storage.
+
+### QLC with jinhua - yay or nay?
+
+This question comes up a lot, it seems to surprise many how common it is for huajuans to have jinhua (金花, "golden flowers). It surprised me too in the beginning, as I expected all anhei teas beside fuzhuans to not have any.
+
+The fact of the matter - and I think anyone who has tried a reasonable number of huajuans with some age will agree - is that it is extremely common for huajuans to grow jinhua. It's (typically) not by intention. Sometimes it happens during the production (likely during the "night dew" stage, after the logs have been wrapped and pressed and are exposed to sunny days and dewy nights), other times after the logs have been released on the market (i.e. in private storages).
+
+The follow-up question is then whether or not the accident is a happy one. The only way to answer this is with another "it depends". Jinhua will typically mellow out the tea a bit and I find that it suits certain profiles more than others.
+
+Let's round off with an appeal to authority:
+
+1) Li Shengfu (Yongtaifu) confidently bragging about about the amount of jinhua, only to be disappointed when the prospective client ignorantly asks if the tea has gone mouldy
+2) Xiao Hong on this question (estimates 90% of huajuans develop jinhua)
+3) Xiao Yiping on this question
+4) Baishaxi video on this (English marchine translation subs)
+
+<style>
+/* responsive grid that places embeds side-by-side */
+.douyin-row {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  align-items: start;
+  max-width: 1200px;
+  margin: 1rem auto;
+  padding: 0 1rem;
+}
+
+/* the individual embed (adapted from your portrait rules) */
+.douyin-embed {
+  --max-w: 420px;            /* not strict — columns will control width */
+  width: 100%;
+  max-width: none;           /* allow grid column to size it */
+  margin: 0;                 /* grid handles spacing */
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  background: transparent;   /* fixed invalid color from before */
+}
+
+/* modern: aspect-ratio layout (portrait default) */
+@supports (aspect-ratio: 1/1) {
+  .douyin-embed {
+    aspect-ratio: 9 / 16;    /* portrait */
+    padding: 0;
+  }
+  .douyin-embed iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
+}
+
+/* fallback for older browsers */
+@supports not (aspect-ratio: 1/1) {
+  .douyin-embed {
+    padding-bottom: 177.78%; /* portrait fallback */
+    height: 0;
+  }
+  .douyin-embed iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
+}
+
+/* resist theme clipping */
+.douyin-embed iframe,
+.douyin-embed video {
+  max-height: none !important;
+}
+
+/* optional: make embeds visually consistent when very tall by limiting max height
+   (uncomment to use). If you uncomment, the iframe will be scrollable inside the box. */
+/* .douyin-embed { max-height: 90vh; } */
+
+@media (max-width: 520px) {
+  /* tighten spacing on small screens */
+  .douyin-row { gap: 0.6rem; padding: 0 .6rem; }
+}
+</style>
+
+<div class="douyin-row">
+  <div class="douyin-embed">
+    <iframe src="https://open.douyin.com/player/video?vid=7546217846909553970&autoplay=0"
+            title="Douyin portrait video 1"
+            referrerpolicy="unsafe-url" allowfullscreen loading="lazy"></iframe>
+  </div>
+
+  <div class="douyin-embed">
+    <iframe src="https://open.douyin.com/player/video?vid=7502403838953557287&autoplay=0"
+            title="Douyin portrait video 2"
+            referrerpolicy="unsafe-url" allowfullscreen loading="lazy"></iframe>
+  </div>
+
+  <div class="douyin-embed">
+    <iframe src="https://open.douyin.com/player/video?vid=7402187515102334258&autoplay=0"
+            title="Douyin portrait video 3"
+            referrerpolicy="unsafe-url" allowfullscreen loading="lazy"></iframe>
+  </div>
+  <div class="douyin-embed">
+    <iframe src="https://open.douyin.com/player/video?vid=7538999857000795392&autoplay=0"
+            title="Douyin portrait video 3"
+            referrerpolicy="unsafe-url" allowfullscreen loading="lazy"></iframe>
+  </div>
+</div>
+
+
+
+
 
 ### Do you have some recommended resources for learning more about Anhua heicha?
 
