@@ -24,7 +24,7 @@ featured_image: images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-pic.
 
 **Baishaxi (白沙溪)** is arguably the most well-known producer of Qianliang tea (and Anhua heicha in general) today, so the company likely needs no introduction. The 2008 **Olympics** (**奥运**) QLC – this is what it's typically called despite the official name being one that Baishaxi has used a number of times,namely the "World's Tea King" (世界茶王) – is one of their more famous productions.
 
-This production used Gaomaerxi material – supposedly aged "more than three years" (without further specificity) – tightly rolled into logs twice the size of normal QLCs. It thus shares many of the characteristics of the the "World Expo" QLC they would produce two years later.
+This production used Gaomaerxi material – supposedly aged "more than three years" (without further specificity) – tightly rolled into logs twice the size of normal QLCs. It thus shares many of the characteristics of the the ["World Expo" QLC](/teas/2010-baishaxi-shibo-qlc.html) they would produce two years later.
 
 
 *<p class="small-paragraph">
