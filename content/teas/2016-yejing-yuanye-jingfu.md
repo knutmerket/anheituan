@@ -7,7 +7,7 @@ slug: 2016-yejing-yuanye-jingfu
 status: published
 price: $50
 unit_weight: 500g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2016-yejing-yuanye-jingfu/2016-yejing-yuanye-jingfu-wrapper-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2016-yejing-yuanye-jingfu/2016-yejing-yuanye-jingfu-
 - **Storage:** Hunan
 - **Brick weight:** 500 gram
 - **Price:** USD 50 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
