@@ -43,7 +43,18 @@ Please include this info in your email:
 Copy, fill it in, and paste it into the email. (These are the required fields by shipforwarder.com to process the shipment.)
 
 
-> **Note:**  
-> With regular postal services halted, shipping from China to the US has been more or less unavailable since May 2025. There is currently (October 2025) only two shipping options available from Shipforwarder: FedEx "tax free" (limit at 1kg, costs around USD 60) and "air freight to door (tax free)" (no specified size limit, around USD 60 for 1kg and USD 100 for 2kg)
+> **Shipping to the United States (updated December 2025):**  
+> After a long period with almost no workable postal options, both Guangzhou ePacket and EMS are now available again for U.S.-bound orders. Both are officially DDP (“delivered duty paid”), though in these unpredictable times I cannot guarantee that U.S. customs will never apply tariffs on arrival.  
+>  
+> For <2 kg packages, **Guangzhou ePacket** is currently the cheapest option. At the time of writing *estimated* costs are:  
+> ~USD 28 for 1 kg  
+> ~USD 49 for 2 kg (the maximum weight)  
+>  
+> **EMS** is slightly faster and can ship up to 31.5 kg. At the time of writing *estimated* costs are:  
+> ~USD 56 for 1 kg  
+> ~USD 76 for 2 kg  
+> ~USD 135 for 5 kg  
+>
+I’ll update this page again if more shipping options become available.
 
 ---
