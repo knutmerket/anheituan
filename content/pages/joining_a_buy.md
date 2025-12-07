@@ -44,7 +44,7 @@ Copy, fill it in, and paste it into the email. (These are the required fields by
 
 
 > **Shipping to the United States (updated December 2025):**  
-> After a long period with almost no workable postal options, both Guangzhou ePacket and EMS are now available again for U.S.-bound orders. Both are officially DDP (“delivered duty paid”), though in these unpredictable times I cannot guarantee that U.S. customs will never apply tariffs on arrival.  
+> After a long period with almost no workable postal options, both Guangzhou ePacket and EMS are now available again for U.S.-bound orders. Both are officially DDP (“delivered duty paid”), though in these unpredictable times I cannot guarantee that U.S. customs will never apply tariffs on arrival.
 >  
 > For <2 kg packages, **Guangzhou ePacket** is currently the cheapest option. At the time of writing *estimated* costs are:  
 > ~USD 28 for 1 kg  
@@ -55,6 +55,6 @@ Copy, fill it in, and paste it into the email. (These are the required fields by
 > ~USD 76 for 2 kg  
 > ~USD 135 for 5 kg  
 >
-I’ll update this page again if more shipping options become available.
+Overall, shipping prices to the U.S. are higher than before and may well represent the new normal. I’ll update this page again if more shipping options become available.
 
 ---
