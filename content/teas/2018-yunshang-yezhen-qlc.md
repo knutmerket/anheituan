@@ -7,7 +7,7 @@ slug: 2018-yunshang-yezhen-qlc
 status: published
 price: $70
 unit_weight: 700g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-w-cloth.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-lo
 - **Log weight:** 36.25 kg 
 - **Slice weight:** ~700g / slice (+/- 10%) 
 - **Price:** USD 70 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

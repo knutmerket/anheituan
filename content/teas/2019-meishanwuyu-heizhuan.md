@@ -7,7 +7,7 @@ slug: 2019-meishanwuyu-heizhuan
 status: published
 price: $40
 unit_weight: 500g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-front-inner-package.jpg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-
 - **Storage:** Hunan
 - **Brick weight:** 500g
 - **Price:** USD 40 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

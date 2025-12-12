@@ -7,7 +7,7 @@ slug: 2007-liyuanlong-gaomajuan
 status: published
 price: $90
 unit_weight: ~500g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2007-liyuanlong-huajuans/2007-liyuanlong-gaomajuan-slice.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2007-liyuanlong-huajuans/2007-liyuanlong-gaomajuan-s
 - **Log weight:** 20 kg 
 - **Slice weight:** ~500g / slice (+/- 10%) 
 - **Price:** USD 90 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

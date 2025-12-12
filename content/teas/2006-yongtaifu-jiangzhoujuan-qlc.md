@@ -7,7 +7,7 @@ slug: 2006-yongtaifu-jiangzhoujuan-qlc
 status: published
 price: $90
 unit_weight: ~700g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2006-yongtaifu-jiangzhoujuan-qlc/2006-yongtaifu-dry-leaf.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2006-yongtaifu-jiangzhoujuan-qlc/2006-yongtaifu-dry-
 - **Log weight:** ~40 kg 
 - **Slice weight:** ~700g / slice (+/- 10%) 
 - **Price:** USD 90 / slice
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
