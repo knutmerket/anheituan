@@ -7,7 +7,7 @@ slug: 2006-baishaxi-qlc
 status: published
 price: $100
 unit_weight: ~650g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2006-baishaxi-qlc/2006-bsx-log-cutting.jpg
 - **Log weight:** ~37 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
 - **Price:** USD 100 / slice
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

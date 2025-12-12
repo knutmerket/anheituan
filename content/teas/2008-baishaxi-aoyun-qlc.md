@@ -7,7 +7,7 @@ slug: 2008-baishaxi-aoyun-qlc
 status: published
 price: $120
 unit_weight: ~650g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-pic.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2008-baishaxi-aoyun-qlc/2008-baishaxi-aoyun-qlc-pic.
 - **Log weight:** 62.75 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
 - **Price:** USD 120 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

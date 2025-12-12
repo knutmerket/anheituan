@@ -7,7 +7,7 @@ slug: 2010-baishaxi-shibo-qlc
 status: published
 price: $65
 unit_weight: ~700g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2010-baishaxi-shibo-qlc/2010-baishaxi-shibo-qlc-whole-log.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2010-baishaxi-shibo-qlc/2010-baishaxi-shibo-qlc-whol
 - **Log weight:** 62 kg 
 - **Slice weight:** ~700g / slice (+/- 10%) 
 - **Price:** USD 65 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
