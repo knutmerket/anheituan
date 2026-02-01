@@ -73,7 +73,7 @@ Let's round off with an appeal to authority:
 1) Li Shengfu (Yongtaifu) confidently bragging about about the amount of jinhua, only to be disappointed when the prospective client ignorantly asks if the tea has gone mouldy (at around 1:45)  
 2) Xiao Hong on this question (estimates 90% of huajuans develop jinhua)  
 3) Xiao Yiping on this question  
-4) Baishaxi video on this (English machine translation subs)  
+4) Baishaxi video on this (English machine translation subs)
 
 <style>
 /* responsive grid that places embeds side-by-side */
@@ -172,8 +172,12 @@ Let's round off with an appeal to authority:
   </div>
 </div>
 
+Finally, in Zeng Zhixian's words when documenting the unpacking of a 50s QLC:
+
+> 掀開竹是,塵封半個世紀的千兩茶,以進 桑面貌重新與茶友對話。打開後,佈滿「金 花」,這是品質最佳、最有價值的好茶。
 
 
+([[1]](/images/general/zeng_zhixian_qlc_demo1.jpeg), [[2]](/images/general/zeng_zhixian_qlc_demo2.jpeg) - from *方圆之缘—深探紧压茶世界*, published in 2001 and widely regarded as landmark work for sparking renewed interest in Anhua heicha)
 
 
 ### Do you have some recommended resources for learning more about Anhua heicha?
