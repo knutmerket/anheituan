@@ -7,7 +7,7 @@ slug: 2018-yuntaiya-tuohuang-heizhuan
 status: published
 price: $30
 unit_weight: ~420g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2018-yuntaiya-tuohuang-heizhuan/2018-yuntaiya-tuohuang-heizhuan-front-wrapper.jpg
 ---
 
@@ -16,7 +16,7 @@ featured_image: images/teas/2018-yuntaiya-tuohuang-heizhuan/2018-yuntaiya-tuohua
 - **Brick weight:** 1.8 kg 
 - **Chunk weight:** ~420g / chunk (+/- 10%) 
 - **Price:** USD 30 / chunk
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 ---
 
