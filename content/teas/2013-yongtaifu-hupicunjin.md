@@ -32,7 +32,7 @@ As for the tiger skin processing, it's considered extremely different to pull of
 
 Two words on **shengjian**, the category to which the tea on offer here belongs, are probably in order. It's one of the "three jians", the loose leaf family of Anhua heicha, the other two (commonly mentioned, [there are actually more than three](/images/general/cai_zhengan_sevenjians.jpeg)) being tianjian and gongjian. In terms of "tenderness" tianjian (天尖) is the highest grade (stem content limited to <= 5%), gongjian (贡尖) is the second grade (stem content <= 8%) and shengjian (生尖) is the third grade (stem content <= 15%). Meaning shengjian is the cruder of the three (in terms of leaf size and allowed stem content), though as always, don't read crude as "bad" or "lesser".
 
-It *does* typically translate to less punchiness though. This 2011 shengjian tea combines Xiangyaxi materials with hupi processing. It is mellow and warming, and veers into more herbal, caramelly territory. I recommend using plenty of leaf with this one (even those of you who prefer lower ratios that my [general recommendations](/pages/frequently-asked.html) call for)
+It *does* typically translate to less punchiness though. This 2013 shengjian tea combines Xiangyaxi materials with hupi processing. It is mellow and warming, and veers into more herbal, caramelly territory. I recommend using plenty of leaf with this one (even those of you who prefer lower ratios that my [general recommendations](/pages/frequently-asked.html) call for)
 
 An interesting comparison to the [2021 "Hupi" Xiangyaxi QLC](/teas/2021-yongtaifu-hupi-qlc.html) since the roast has had eight more years to settle on this one.
 
