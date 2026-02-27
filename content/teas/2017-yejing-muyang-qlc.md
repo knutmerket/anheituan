@@ -1,36 +1,38 @@
 ---
-title: 2016 Yejing Muyangjie Qianliangcha
+title: 2017 Yejing Muyangjie Qianliangcha
 category: teas
-date: 2025-02-28
+date: 2026-02-27
 tags: Yejing, Hunan storage, QLC, Muyangjie
 slug: 2017-yejing-muyang-qlc
 status: published
-price: $60
-unit_weight: 650g
+price: $70
+unit_weight: ~650g
 availability: in stock
-featured_image: images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-w-cloth.jpg
+featured_image: images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-log.jpeg
 ---
 
 - **Production year:** 2017
 - **Storage:** Hunan
 - **Month cut:** December 2025
-- **Log weight:** 36.25 kg 
+- **Log weight:** 31.25 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
-- **Price:** USD 60 / slice  
+- **Price:** USD 70 / slice  
 - **Availability:** In stock
 
 
 ---
 
-Back in November I listed a fuzhuan from Yejing on the site. It was the first tea from the company I'd ever tried. Despite hearing the occasional mention of this brand in some chat groups all the way back to my entry into the world of Anhua heicha around 2020, I hadn't come across their products at a price point I considered acceptable until fall 20205. My first impression was good, and as luck would have it a number of other teas from this company (all bought from the same source) would become available at a very reasonable price not long after.
+Back in November I listed a fuzhuan from Yejing on the site. It was the first tea from the company I'd ever tried. Despite hearing the occasional mention of this brand in some chat groups all the way back to my entry into the world of Anhua heicha around 2020, I hadn't come across their products at a price point I considered acceptable until fall 2025. My first impression was good, and as luck would have it a number of other teas from this company (all bought from the same source) would become available at a very reasonable price not long after.
 
-**Yejing (野境)** is run by Wang Hua. He used to be involved in Gaojiashan, as the company's marketing director and a shareholder. Some of you might be aware that  GJS started out as a family business run by two brothers, until they split in 2013. One kept the factory (and launched the brand Yuntaiwuhan (云台雾寒)), the other got to keep the brand name (and the tea that remained in the company’s own storage), later setting up a new Gaojiashan factory. (Note that the details here are quite fuzzy, so there are probably som nuances to this story.) I guess you could say that Wang Hua going his own way and setting up Yejing in 2013 was the third brand spawn that came from the Gaojiashan split. Yejing had a more boutique focus from the beginning, with a strong emphasis on (seed-grown, "wild environment") raw materials and (consequently) low production volumes. The processing is on the lighter side, except for the thorough qixing roasting.
+**Yejing (野境)** is run by Wang Hua. He used to be involved in Gaojiashan, as the company's marketing director and a shareholder. Some of you might be aware that  GJS started out as a family business run by two brothers, until they split in 2013. One kept the factory (and launched the brand Yuntaiwuhan (云台雾寒)), the other got to keep the brand name (and the tea that remained in the company’s own storage), later setting up a new Gaojiashan factory. (Note that the details here are fuzzy, there are probably some nuances to this story lost in my short summary.) You could say that Wang Hua going his own way and setting up Yejing in 2013 was the third brand spawn that came from the Gaojiashan split. Yejing had a more boutique focus from the outset, with a strong emphasis on (seed-grown, "wild environment") raw materials and (consequently) low production volumes. The processing on his teas are generally speaking on the lighter side, except for the thorough qixing roasting.
 
-Besides sourcing and pressing teas under his brand, Wang Hua has also authored the books [安化黑茶品鉴](http://www.culturetea.com/product/product_detail.asp?id=8763) (2019) and [寂静者的因缘](http://www.culturetea.com/product/product_detail.asp?id=9722) (2021). (It's easy to autopilot to a suspicion that these works were penned as much by the former marketing director as the tea appreciator, but it's very clear from his writing that he's genuinely passionate about all aspects of tea and what he calls (after pre-emptively apologizing for being about to come across as somewhat pretentious) the "solitary beauty" of tea enjoyment.)
+Besides sourcing and pressing teas under his brand, Wang Hua has also authored the books [安化黑茶品鉴](http://www.culturetea.com/product/product_detail.asp?id=8763) (2019) and [寂静者的因缘](http://www.culturetea.com/product/product_detail.asp?id=9722) (2021). 
 
-Muyang: A bit more robust in the delivery, smoke is more prominent. camphor, magnolia, wood, smoke
+(It's easy to autopilot to a suspicion that these works were penned as much by the former marketing director as the tea appreciator, but it's very clear from his writing that he's genuinely passionate about all aspects of tea and what he calls (after pre-emptively apologizing for being about to come across as somewhat pretentious) the "solitary beauty" of tea enjoyment.)
 
-Second grade materials from old tea gardens (古茶园, supposedly meaning trees of at least 60 years of age here) in Muyangjie (木杨界, often just referred to as "Muyang").
+This QLC is made from second-grade materials from "old tea gardens" (古茶园, supposedly meaning trees of "at least 60 years of age" as it is used here) in **Muyangjie (木杨界)**, an area known for its unique fragrance often attributed to the widespread growth of the aromatic Magnolia officinalis. Notes of camphor, wood, smoke, this QLC is quite robust.
+
+Similar enough material selection to work as a comparison tea to the [2018 Muyangjie Huazhuan](/teas/2018-yejing-muyang-huazhuan), for those curious about processing differences between QLCs and huazhuans.
 
 
 
@@ -42,7 +44,7 @@ Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural o
 
 ---
 
-![Tea soup](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-tea-soup.JPG)
-![Spent leaves](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-spent-leaves.JPG)
-![Clothed logs](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-w-cloth.jpg)
-![Unwrapped log](/images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-wo-cloth.jpg)
+![Tea soup](/images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-tea-soup.jpeg)
+![Spent leaves](/images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-spent-leaves.jpeg)
+![Log](/images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-log.jpeg)
+![Official poster](/images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-promo-poster.jpeg)

@@ -1,14 +1,14 @@
 ---
 title: 2008 Zhongcha (Furun) "Jingpin" Heizhuan
 category: teas
-date: 2026-02-10
+date: 2026-02-27
 tags: Zhongcha, Hunan storage, Heizhuan
 slug: 2008-zhongcha-heizhuan
 status: published
 price: $18
 unit_weight: 250g
 availability: in stock
-featured_image: images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-front-inner-package.jpg
+featured_image: images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-wrapper-front.jpeg
 ---
 
 - **Production year:** 2008
@@ -22,7 +22,7 @@ featured_image: images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-
 
 This is a higher grade **Zhongcha (中茶)** heizhuan. 2005 material, pressed in 2008.
 
-A couple of other things sets this apart from most big-factoruy productions from that era: The relatively tender material used (seems to be a mix og tian- and gongjian material), the grade consistency throghout the brick (a more typical situation is a brick that is either crude throughout or a finer exterior wrapped around a crude core), the relatively small brick size (a big reason I decided to put these up in the first place) and a very penetrating almond note with a bit of minty coolness.
+A couple of other things sets this apart from most big-factory productions from that era: The relatively tender material used (seems to be dominated by gongjian material), the grade consistency throughout the brick (no "finer exterior wrapped around a crude core" trickery here), the relatively small brick size (a big reason I decided to put these up in the first place) and a very penetrating almond note with a bit of minty coolness.
 
 A robust tea, the highlight for me of both this and the 2007 brick is the clean aged taste and body feeling they produce.
 
@@ -35,10 +35,13 @@ Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural o
 
 ---
 
-![Spent leaves](/images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-spent-leaves.jpg)
-![Front outer package](/images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-front-outer-package.jpg)
-![Front outer package](/images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-front-inner-package.jpg)
-![Front outer package](/images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-back-outer-package.jpg)
-![Front outer package](/images/teas/2019-meishanwuyu-heizhuan/2019-meishanwuyu-heizhuan-unwrapped-brick.jpg)
+![Tea soup](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-tea-soup.jpeg)
+![Tea soup close](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-tea-soup-close.jpeg)
+![Spent leaves close](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-spent-leaves-close.jpeg)
+![Front wrapper](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-wrapper-front.jpeg)
+![Back wrapper](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-wrapper-back.jpeg)
+![Inner wrapper](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-wrapper-inner.jpeg)
+![Unwrapped brick front](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-unwrapped-brick-front.jpeg)
+![Unwrapped brick angle](/images/teas/2008-zhongcha-heizhuan/2008-zhongcha-heizhuan-unwrapped-brick-angle.jpeg)
 
 ---

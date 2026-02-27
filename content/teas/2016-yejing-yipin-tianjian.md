@@ -1,20 +1,21 @@
 ---
-title: 2018 Yejing Muyangjie Huazhuan
+title: 2016 Yejing "Yipin" Tianjian
 category: teas
 date: 2026-02-27
-tags: Yejing, Hunan storage, Huazhuan, Muyangjie
-slug: 2018-yejing-muyang-huazhuan
+tags: Yejing, Hunan storage, Tianjian
+slug: 2016-yejing-yipin-tianjian
 status: published
-price: $45
-unit_weight: 400g
+price: $15
+unit_weight: ~200g
 availability: in stock
-featured_image: images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-wrapper-front.jpeg
+featured_image: images/teas/2016-yejing-yipin-tianjian/2016-yejing-yipin-tianjian-tea-soup.jpeg
 ---
 
-- **Production year:** 2018
+- **Production year:** 2016
 - **Storage:** Hunan
-- **Brick weight:** 400g
-- **Price:** USD 45 / brick
+- **Original box weight:** 1 kg 
+- **Bag weight:** ~200g / bag (+/- 10%) 
+- **Price:** USD 15 / bag
 - **Availability:** In stock
 
 
@@ -28,9 +29,13 @@ Besides sourcing and pressing teas under his brand, Wang Hua has also authored t
 
 (It's easy to autopilot to a suspicion that these works were penned as much by the former marketing director as the tea appreciator, but it's very clear from his writing that he's genuinely passionate about all aspects of tea and what he calls (after pre-emptively apologizing for being about to come across as somewhat pretentious) the "solitary beauty" of tea enjoyment.)
 
-This huazhuan is made from second-grade materials from **Muyangjie (木杨界)**, an area known for its unique fragrance often attributed to the widespread growth of the aromatic Magnolia officinalis.
+The 2016 "Yipin" (逸品) tianjian is a blend of  of materials from Liubuxi (六步溪), Wulongshan (五龙山) and Longtang (龙塘). This tianjian's smoke is already well-integrated, with layered fruity undertones. A warming and robust daily drinker tianjian.
 
-Similar enough material selection to work as a comparison tea to the [2017 Muyangjie QLC](/teas/2017-yejing-muyang-qlc.html), for those curious about processing differences between QLCs and huazhuans.
+
+*<p class="small-paragraph">
+Brewing notes:<br>
+I normally use a good deal less leaf when brewing tianjians than other types of Anhua heicha. Although I haven't yet run this tea through the full range of my available clay profiles, my sessions with it so far suggest that it benefits from a little bit of muting. Green label zini and vintage chaozhou have yielded excellent cups.
+</p>*
 
 *<p class="small-paragraph">
 Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural occurrence in certain heicha teas. Their development depends on factors like microbial activity, storage conditions, and time. However, individuals with Celiac Disease or severe gluten allergies should exercise caution, as we cannot guarantee that no wheat-based materials were involved at any stage of production.
@@ -38,8 +43,7 @@ Note: This tea may contain golden flowers (Jinhua/金花), a perfectly natural o
 
 ---
 
-![Tea soup](/images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-tea-soup.jpeg)
-![Spent leaves](/images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-spent-leaves.jpeg)
-![Front wrapper](/images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-wrapper-front.jpeg)
-![Back wrapper](/images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-wrapper-back.jpeg)
-![Unwrapped brick](/images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-unwrapped-brick.jpeg)
+
+![Tea soup](/images/teas/2016-yejing-yipin-tianjian/2016-yejing-yipin-tianjian-tea-soup.jpeg)
+![Spent leaves](/images/teas/2016-yejing-yipin-tianjian/2016-yejing-yipin-tianjian-spent-leaves.jpeg)
+ 

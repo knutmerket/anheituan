@@ -6,7 +6,7 @@ tags: Yunshang, Hunan storage, Yuntaishan material, QLC
 slug: 2018-yunshang-yezhen-qlc
 status: published
 price: $70
-unit_weight: 700g
+unit_weight: ~700g
 availability: in stock
 featured_image: images/teas/2018-yunshang-yezhen-qlc/2018-yunshang-yezhen-qlc-logs-w-cloth.jpg
 ---
