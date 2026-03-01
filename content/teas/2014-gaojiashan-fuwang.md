@@ -7,7 +7,7 @@ slug: 2014-gaojiashan-fuwang
 status: published
 price: $45
 unit_weight: ~500g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrapper-front.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2014-gaojiashan-fuwang/2014-gaojiashan-fuwang-wrappe
 - **Brick weight:** 31.25 kg 
 - **Chunk weight:** ~500g / chunk (+/- 10%) 
 - **Price:** USD 45 / chunk
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

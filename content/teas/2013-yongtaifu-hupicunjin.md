@@ -7,7 +7,7 @@ slug: 2013-yongtaifu-hupicunjin
 status: published
 price: $55
 unit_weight: 248g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2013-yongtaifu-hupicunjin/2013-yongtaifu-hupicunjin-box-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2013-yongtaifu-hupicunjin/2013-yongtaifu-hupicunjin-
 - **Storage:** Hunan
 - **Bag weight:** 248g
 - **Price:** USD 55
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
