@@ -7,7 +7,7 @@ slug: 2007-zhongcha-heizhuan
 status: published
 price: $18
 unit_weight: 250g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2007-zhongcha-heizhuan/2007-zhongcha-heizhuan-wrapper-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2007-zhongcha-heizhuan/2007-zhongcha-heizhuan-wrappe
 - **Storage:** Hunan
 - **Brick weight:** 250g
 - **Price:** USD 18 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

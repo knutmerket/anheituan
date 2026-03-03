@@ -7,7 +7,7 @@ slug: 2012-gaojiashan-huazhuan
 status: published
 price: $45
 unit_weight: 1 kg
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2012-gaojiashan-huazhuan/2012-gaojiashan-huazhuan-wrapper-front.jpg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2012-gaojiashan-huazhuan/2012-gaojiashan-huazhuan-wr
 - **Storage:** Hunan
 - **Brick weight:** 1 kg 
 - **Price:** USD 45 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
