@@ -5,18 +5,18 @@ date: 2026-02-27
 tags: Yejing, Hunan storage, Tianjian
 slug: 2016-yejing-yipin-tianjian
 status: published
-price: $15
-unit_weight: ~200g
-availability: out of stock
+price: $14
+unit_weight: ~185g
+availability: in stock
 featured_image: images/teas/2016-yejing-yipin-tianjian/2016-yejing-yipin-tianjian-tea-soup.jpeg
 ---
 
 - **Production year:** 2016
 - **Storage:** Hunan
 - **Original box weight:** 1 kg 
-- **Bag weight:** ~200g / bag (+/- 10%) 
-- **Price:** USD 15 / bag
-- **Availability:** <span style="color:red">**Out of stock**</span>
+- **Bag weight:** ~185g / bag (+/- 10%) 
+- **Price:** USD 14 / bag
+- **Availability:** In stock (restocked March 2026)
 
 
 ---
