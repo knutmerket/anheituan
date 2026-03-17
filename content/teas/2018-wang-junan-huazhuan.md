@@ -7,7 +7,7 @@ slug: 2018-wang-junan-huazhuan
 status: published
 price: $50
 unit_weight: 800g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-brick.jpg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2018-wang-junan-huazhuan/2018-wang-junan-huazhuan-br
 - **Storage:** Hunan
 - **Brick weight:** 800g 
 - **Price:** USD 50 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

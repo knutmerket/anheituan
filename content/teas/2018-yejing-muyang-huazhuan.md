@@ -7,7 +7,7 @@ slug: 2018-yejing-muyang-huazhuan
 status: published
 price: $45
 unit_weight: 400g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazhuan-wrapper-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2018-yejing-muyang-huazhuan/2018-yejing-muyang-huazh
 - **Storage:** Hunan
 - **Brick weight:** 400g
 - **Price:** USD 45 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
