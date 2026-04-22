@@ -7,17 +7,17 @@ slug: 2007-liyuanlong-tianzijuan
 status: published
 price: $90
 unit_weight: ~400g
-availability: out of stock
+availability: in stock
 featured_image: images/teas/2007-liyuanlong-huajuans/2007-liyuanlong-tianzijuan-slice.jpg
 ---
 
 - **Production year:** 2007
 - **Storage:** Hunan
-- **Month cut:** September 2025
+- **Month cut:** ~~September 2025~~ April 2026
 - **Log weight:** 12 kg 
 - **Slice weight:** ~400g / slice (+/- 10%) 
 - **Price:** USD 90 / slice  
-- **Availability:** <span style="color:red">**Out of stock**</span>
+- **Availability:** In stock (restocked April 2026, different log but from the same storage)
 
 
 ---
