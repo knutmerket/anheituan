@@ -7,7 +7,7 @@ slug: 2012-baishaxi-zhizun-qlc
 status: published
 price: $55
 unit_weight: ~700g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2012-baishaxi-zhizun-qlc/2012-baishaxi-zhizun-qlc-log-back.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2012-baishaxi-zhizun-qlc/2012-baishaxi-zhizun-qlc-lo
 - **Log weight:** 47.7 kg 
 - **Slice weight:** ~700g / slice (+/- 10%) 
 - **Price:** USD 55 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

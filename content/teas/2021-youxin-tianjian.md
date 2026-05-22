@@ -7,7 +7,7 @@ slug: 2021-youxin-tianjian
 status: published
 price: $30
 unit_weight: ~150g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2021-youxin-tianjian/2021-youxin-tianjian-dry-leaf.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2021-youxin-tianjian/2021-youxin-tianjian-dry-leaf.j
 - **Original basket weight:** 500g
 - **Bag weight:** ~150g / bag (+/- 10%)
 - **Price:** USD 30 / bag
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
