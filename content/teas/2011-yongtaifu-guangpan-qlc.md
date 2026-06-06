@@ -7,7 +7,7 @@ slug: 2011-yongtaifu-guangpan-qlc
 status: published
 price: $45
 unit_weight: ~650g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2011-yongtaifu-guangpan-qlc/2011-yongtaifu-guangpan-qlc-wrapper-front.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2011-yongtaifu-guangpan-qlc/2011-yongtaifu-guangpan-
 - **Log weight:** 36.25 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
 - **Price:** USD 45 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 ---
 

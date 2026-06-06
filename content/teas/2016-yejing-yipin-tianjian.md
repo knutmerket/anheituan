@@ -7,7 +7,7 @@ slug: 2016-yejing-yipin-tianjian
 status: published
 price: $14
 unit_weight: ~185g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2016-yejing-yipin-tianjian/2016-yejing-yipin-tianjian-tea-soup.jpeg
 ---
 
@@ -16,7 +16,7 @@ featured_image: images/teas/2016-yejing-yipin-tianjian/2016-yejing-yipin-tianjia
 - **Original box weight:** 1 kg 
 - **Bag weight:** ~185g / bag (+/- 10%) 
 - **Price:** USD 14 / bag
-- **Availability:** In stock (restocked March 2026)
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

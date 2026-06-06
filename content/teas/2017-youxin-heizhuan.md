@@ -7,7 +7,7 @@ slug: 2017-youxin-heizhuan
 status: published
 price: $50
 unit_weight: 480g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2017-youxin-heizhuan/2017-youxin-heizhuan-brick.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2017-youxin-heizhuan/2017-youxin-heizhuan-brick.jpeg
 - **Storage:** Hunan
 - **Brick weight:** 480g
 - **Price:** USD 50 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

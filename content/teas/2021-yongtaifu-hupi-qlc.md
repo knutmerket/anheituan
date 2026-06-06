@@ -7,7 +7,7 @@ slug: 2021-yongtaifu-hupi-qlc
 status: published
 price: $110
 unit_weight: ~700g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2021-yongtaifu-hupi-qlc/2021-yongtaifu-hupi-qlc-log-label.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2021-yongtaifu-hupi-qlc/2021-yongtaifu-hupi-qlc-log-
 - **Log weight:** 36 kg
 - **Slice weight:** ~700g / slice (+/- 10%) 
 - **Price:** USD 110 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
