@@ -7,7 +7,7 @@ slug: 2004-yongtaifu-gaomaerxi-qlc
 status: published
 price: $100
 unit_weight: ~650g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2004-yongtaifu-gaomaerxi-qlc/2004-yongtaifu-gaomaerxi-qlc-log-label.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2004-yongtaifu-gaomaerxi-qlc/2004-yongtaifu-gaomaerx
 - **Log weight:** 54 kg
 - **Slice weight:** ~700g / slice (+/- 10%)
 - **Price:** USD 100 / slice
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
