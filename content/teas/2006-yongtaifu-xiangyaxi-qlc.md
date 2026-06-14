@@ -7,7 +7,7 @@ slug: 2006-yongtaifu-xiangyaxi-qlc
 status: published
 price: $90
 unit_weight: ~600g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2006-yongtaifu-xiangyaxi-qlc/2006-yongtaifu-xiangyaxi-qlc-spent-leaves.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2006-yongtaifu-xiangyaxi-qlc/2006-yongtaifu-xiangyax
 - **Log weight:** 36.25 kg
 - **Slice weight:** ~600g / slice (+/- 10%)
 - **Price:** USD 90 / slice
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

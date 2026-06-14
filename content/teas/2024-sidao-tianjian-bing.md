@@ -7,7 +7,7 @@ slug: 2024-sidao-tianjian-bing
 status: published
 price: $20
 unit_weight: 100g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2024-sidao-tianjian-bing/2024-sidao-tianjian-bing-unwrapped-cake.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2024-sidao-tianjian-bing/2024-sidao-tianjian-bing-un
 - **Storage:** Hunan 
 - **Cake weight:** 100g
 - **Price:** USD 20 / cake
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
