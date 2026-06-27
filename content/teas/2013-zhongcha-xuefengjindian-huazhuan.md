@@ -7,7 +7,7 @@ slug: 2013-zhongcha-xuefengjindian-huazhuan
 status: published
 price: $15
 unit_weight: ~200g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-magazine-cover.jpg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-
 - **Brick weight:** 2 kg 
 - **Bag weight:** ~200g / bag (+/- 10%) 
 - **Price:** USD 15 / bag
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

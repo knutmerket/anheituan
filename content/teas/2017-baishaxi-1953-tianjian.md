@@ -7,7 +7,7 @@ slug: 2017-baishaxi-1953-tianjian
 status: published
 price: $10
 unit_weight: ~150g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2017-baishaxi-1953-tianjian/2017-baishaxi-1953-tianjian-promo-poster.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2017-baishaxi-1953-tianjian/2017-baishaxi-1953-tianj
 - **Original basket weight:** 50 kg
 - **Bag weight:** ~150g / bag (+/- 10%)
 - **Price:** USD 10 / bag
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
