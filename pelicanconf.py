@@ -1,6 +1,6 @@
 AUTHOR = 'Balthazar'
 SITENAME = 'Anheituan'
-SITESUBTITLE = "粗种有细"
+SITESUBTITLE = "粗中有细"
 SITEURL = ""
 
 PATH = "content"
