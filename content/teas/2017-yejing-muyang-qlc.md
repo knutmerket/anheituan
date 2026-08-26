@@ -7,7 +7,7 @@ slug: 2017-yejing-muyang-qlc
 status: published
 price: $70
 unit_weight: ~650g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-log.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/2017-yejing-muyang-qlc/2017-yejing-muyang-qlc-log.jp
 - **Log weight:** 31.25 kg 
 - **Slice weight:** ~650g / slice (+/- 10%) 
 - **Price:** USD 70 / slice  
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---

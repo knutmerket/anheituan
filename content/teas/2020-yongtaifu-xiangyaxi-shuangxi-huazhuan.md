@@ -7,7 +7,7 @@ slug: 2020-yongtaifu-xiangyaxi-shuangxi-huazhuan
 status: published
 price: $18
 unit_weight: ~150g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2020-yongtaifu-xiangyaxi-shuangxi-huazhuan/2020-yongtaifu-xiangyaxi-shuangxi-huazhuan-wrapper-front.jpeg
 ---
 
@@ -16,7 +16,7 @@ featured_image: images/teas/2020-yongtaifu-xiangyaxi-shuangxi-huazhuan/2020-yong
 - **Brick weight:** 1 kg
 - **Bag weight:** ~150g / bag (+/- 10%)
 - **Price:** USD 18 / bag
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
