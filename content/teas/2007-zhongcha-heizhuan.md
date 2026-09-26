@@ -20,7 +20,7 @@ featured_image: images/teas/2007-zhongcha-heizhuan/2007-zhongcha-heizhuan-wrappe
 
 ---
 
-This is a higher grade **Zhongcha (中茶)** heizhuan. Produced for Sanli ([湖南省三利茶叶进出口有限公司](https://baike.baidu.com/item/湖南省三利茶叶进出口有限公司/9443729)) and supposedly meant for export to Japan.
+This is a higher grade **Zhongcha (中茶)** heizhuan. Produced by Sanli ([湖南省三利茶叶进出口有限公司](https://baike.baidu.com/item/湖南省三利茶叶进出口有限公司/9443729)) and supposedly meant for export to Japan.
 
 A couple of other things sets this apart from most big-factory productions from that era: The relatively tender material used (seems to be dominated by gongjian material, but it having more stems than the [2008 heizhuan](/teas/2008-zhongcha-heizhuan.html) brings out a sweeter profile), the grade consistency throughout the brick (no "finer exterior wrapped around a crude core" trickery here), the relatively small brick size (a big reason I decided to put these up in the first place). The profile of this one leans towards fruity notes, with some almond in the background (less prominent than the 2008 brick).
 
