@@ -23,7 +23,7 @@ A contact that used to have annual commissions released under his own brands (bu
 
 I'm leave out specific notes for these teas on purpose; suffice it to say that the Gaomaerxi tea underwent qixing-stove processing followed by gentle charcoal roasting, while the Jiulongchi tea was sun-dried and not roasted.
 
-My suggestion for these teas is to drink them gradually over the span of 3-5 years and look for incremental changes. To encourage this kind of ongoing comparison the price for both teas bought together will be USD 120 (vs. USD 70 per tea if bought separately), with a mylar-bag big enough to hold both baskets included. (Please remind about the free mylar part if placing an order for both teas, in case I forget). (And no, despite the roasting difference on these teas, I am not concerned about storing them together in the same mylar.)
+My suggestion for these teas is to drink them gradually over the span of 3-5 years and look for incremental changes. To encourage this kind of ongoing comparison the price for both teas bought together will be USD 120 (vs. USD 70 per tea if bought separately), with a mylar-bag big enough to hold both baskets included. (Please remind me about the free mylar part if placing an order for both teas, in case I forget). (And no, despite the roasting difference on these teas, I am not concerned about storing them together in the same mylar.)
 
 These teas are limited to one basket (of each) per person. The baskets come with the brand name labelling from the guy who arranged this as they will be sold in certain domestic groups and platforms at some point. I will not mention the brand names here (and have removed it from the images) since these teas are likely to be offered at a very different price tier there.
 
