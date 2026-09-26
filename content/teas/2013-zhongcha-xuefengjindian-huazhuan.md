@@ -2,25 +2,28 @@
 title: 2013 Zhongcha "Xuefeng Jindian" Huazhuan
 category: teas
 date: 2025-07-14
-tags: Zhongcha, Hunan storage, Huazhuan
+tags: Zhongcha, Hunan storage, Huazhuan, Guangdong storage
 slug: 2013-zhongcha-xuefengjindian-huazhuan
 status: published
-price: $15
+price: $11
 unit_weight: ~200g
-availability: out of stock
+availability: in stock
 featured_image: images/teas/2013-zhongcha-xuefengjindian-huazhuan/2013-zhongcha-xuefengjindian-huazhuan-magazine-cover.jpg
 ---
 
 - **Production year:** 2013
-- **Storage:** Hunan
-- **Month cut:** July 2025
+- **Storage:** ~~Hunan~~ Guangdong (restocked version)
+- **Month cut:** July ~~2025~~ 2026
 - **Brick weight:** 2 kg 
 - **Bag weight:** ~200g / bag (+/- 10%) 
-- **Price:** USD 15 / bag
-- **Availability:** <span style="color:red">**Out of stock**</span>
+- **Price:** USD ~~15~~ 11 / bag
+- **Availability:** In stock (restocked September 2026)
 
 
 ---
+
+> **Restock info:**
+> The currently available bags are from a Guangdong stored brick cut into cubes in July 2026. Profile wise it has a slightly more aged feeling (smoke more subdued) while being a bit brassier than the previously offered Hunan stored brick. Price is USD 11 per bag.
 
 **Zhongcha (中茶)**... does the company need an introduction? A subsidiary of COFCO, they're big, encompassing factories and areas that covers pretty much all there is to cover of Chinese tea. The kind of "too big to fail" operation that doesn't have people hold their breath for output that is outstanding in any one dimension.
 
