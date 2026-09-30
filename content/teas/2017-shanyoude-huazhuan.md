@@ -7,7 +7,7 @@ slug: 2017-shanyoude-huazhuan
 status: published
 price: $65
 unit_weight: 240g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2017-shanyoude-huazhuan/2017-shanyoude-huazhuan-outer-package-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2017-shanyoude-huazhuan/2017-shanyoude-huazhuan-oute
 - **Storage:** Hunan
 - **Brick weight:** 240g
 - **Price:** USD 65 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
