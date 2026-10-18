@@ -7,7 +7,7 @@ slug: 2014-gaomaxi-furong-fuzhuan
 status: published
 price: $50
 unit_weight: 900g
-availability: out of stock
+availability: in stock
 featured_image: images/teas/2014-gaomaxi-furong-fuzhuan/2014-gaomaxi-furong-fuzhuan-wrapper-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/2014-gaomaxi-furong-fuzhuan/2014-gaomaxi-furong-fuzh
 - **Storage:** Hunan
 - **Brick weight:** 900g
 - **Price:** USD 50 / brick
-- **Availability:** <span style="color:red">**Out of stock**</span>
+- **Availability:** In stock
 
 
 ---
