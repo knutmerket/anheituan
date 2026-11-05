@@ -7,7 +7,7 @@ slug: 1991-yiyang-fuzhuan
 status: published
 price: $28
 unit_weight: ~50g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/1991-yiyang-fuzhuan/1991-yiyang-fuzhuan-wrapper-front.jpeg
 ---
 
@@ -17,7 +17,7 @@ featured_image: images/teas/1991-yiyang-fuzhuan/1991-yiyang-fuzhuan-wrapper-fron
 - **Original brick weight:** 3 kg
 - **Bag weight:** ~50g / bag (+/- 10%)
 - **Price:** USD 28 / bag
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
