@@ -7,7 +7,7 @@ slug: 1995-baishaxi-tezhi-fuzhuan
 status: published
 price: $100
 unit_weight: 450g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/1995-baishaxi-tezhi-fuzhuan/1995-baishaxi-tezhi-fuzhuan-wrapper-front.jpeg
 ---
 
@@ -15,7 +15,7 @@ featured_image: images/teas/1995-baishaxi-tezhi-fuzhuan/1995-baishaxi-tezhi-fuzh
 - **Storage:** Guangdong (since ~2005)
 - **Brick weight:** ~450g (+/- 10%)
 - **Price:** USD 100 / brick
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
