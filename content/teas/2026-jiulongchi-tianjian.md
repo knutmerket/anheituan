@@ -7,14 +7,14 @@ slug: 2026-jiulongchi-tianjian
 status: published
 price: $70
 unit_weight: ~500g
-availability: in stock
+availability: out of stock
 featured_image: images/teas/2026-jiulongchi-tianjian/2026-jiulongchi-tianjian-basket-front.jpeg
 ---
 
 - **Production year:** 2026
 - **Basket weight:** ~500g (+/- 10%) 
 - **Price:** USD 70 / basket
-- **Availability:** In stock
+- **Availability:** <span style="color:red">**Out of stock**</span>
 
 
 ---
